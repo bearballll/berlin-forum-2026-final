@@ -1,14 +1,16 @@
-# 베를린 포럼 최종 발표자료 v8.10
+# 베를린 발표 최종본 v8.10
 
-영문 대본 v8.10에 맞춘 파워포인트입니다. 본문 14장과 부록 10장으로 구성됩니다.
+발표자료와 대본을 이 페이지에서 모두 열거나 내려받을 수 있습니다. PPT 발표자 노트와 한영 대본은 같은 최종 버전입니다.
 
-- 본문 14장 발표자 노트를 최종 영문 대본과 일치시켰습니다. 노트의 Sources & scope 이후는 낭독하지 않습니다.
-- 7번: 승산비 0.63·2.1과 정체성 결과의 통계적 불확실성을 명확히 했습니다.
-- 9번: 트윗 비율 40%→64%와 표본 374→58을 중심으로 바꿨습니다. 왼쪽 도표는 원래의 일별 코드 비율 도표입니다.
-- 부록 B9: 기간별 기술적 검토와 트윗 단위 통계검정을 구분했습니다.
+| 자료 | 열기·다운로드 |
+|---|---|
+| 한영 대본 나란히 읽기 | [대본 열기](https://github.com/bearballll/berlin-forum-2026-final/blob/main/Final_bilingual_v8.10_20261110.md) |
+| 전체 파일 한 번에 받기 ZIP | [다운로드](https://github.com/bearballll/berlin-forum-2026-final/releases/download/v8.10/Berlin_FINAL_v8.10_20261110.zip) |
+| 발표용 파워포인트 PPTX | [다운로드](https://github.com/bearballll/berlin-forum-2026-final/releases/download/v8.10/Fandom_Peace_Berlin_FINAL_v8.10_20261110_EN.pptx) |
+| 슬라이드 미리보기 PDF | [다운로드](https://github.com/bearballll/berlin-forum-2026-final/releases/download/v8.10/Fandom_Peace_Berlin_FINAL_v8.10_20261110_EN_preview.pdf) |
+| 영어 낭독본 TXT | [다운로드](https://github.com/bearballll/berlin-forum-2026-final/releases/download/v8.10/Talk_script_EN_reading_FINAL_v8.10_20261110.txt) |
+| 한국어 낭독본 TXT | [다운로드](https://github.com/bearballll/berlin-forum-2026-final/releases/download/v8.10/Talk_script_KO_reading_FINAL_v8.10_20261110.txt) |
 
-영어 낭독 본문은 1,006단어입니다. 기존 18분 실측 속도로 환산하면 약 10분25초, 그보다 10% 느리게 읽고 전환·쉼에 1분을 더하면 약 12분28초입니다. 실제 최종본 리허설은 아직 확인하지 않았습니다.
+실제 발표에는 PPTX를 사용하고, 언어별 TXT로 낭독 연습하면 됩니다. PDF는 이미지 미리보기입니다. PPT는 본문 14장과 부록 10장으로 구성되며, 발표자 노트의 `Sources & scope` 이후는 읽지 않습니다.
 
-[한영 최종 대본 및 낭독본](https://gist.github.com/bearballll/9d3467402130f5ea9a2a8ae1329f6ffc)
-
-PDF는 휴대폰 검토용 이미지 미리보기입니다. Keynote/PPT의 PDF 직접내보내기는 실패해, 수정한3장은최종PPTX의Quick Look렌더,나머지는변경없는v8.8렌더로구성했습니다. 발표에는 PPTX를 사용합니다.
+영어 본문은 1,006단어입니다. 기존 실측보다 10% 천천히 읽고 전환·쉼에 1분을 더한 예상 시간은 약 12분 28초입니다. 최종본 실제 낭독 시간은 재측정이 필요합니다.
