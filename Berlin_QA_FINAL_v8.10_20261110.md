@@ -1,6 +1,6 @@
 # 베를린 발표 예상 질문과 답변 v8.10
 
-최종 한영 대본과 PPT v8.10에 맞춘 질의응답 연습용 노트입니다. 영어 답변을 먼저 읽고 한국어로 뜻을 확인하세요. 우선 연습할 질문은 1~6번입니다. 답변은 대체로 영어 40~65단어이며, 첫 문장에서 답한 뒤 근거와 한계를 덧붙입니다. 실제 질문 내용과 답변 시간은 아직 확인하지 않았습니다.
+최종 한영 대본과 PPT v8.10에 맞춘 질의응답 연습용 노트입니다. 영어 답변을 먼저 읽고 한국어로 뜻을 확인하세요. 우선 연습할 질문은 1~6번입니다. 1~6번 핵심 답변은 영어 3~4개의 짧은 문장으로 줄였습니다. 첫 문장으로 바로 답하고, 더 물을 때만 아래 보충 답변을 사용하세요. 7~18번은 기존 답변을 유지했습니다. 실제 질문 내용과 답변 시간은 아직 확인하지 않았습니다.
 
 [최종 PPT·한영 대본 모음](https://github.com/bearballll/berlin-forum-2026-final/releases/tag/v8.10)
 
@@ -10,11 +10,11 @@
 
 **English answer**
 
-A donation alone is not enough. My claim concerns a peace-oriented character, rather than an established peace movement. Galtung's positive peace includes addressing structural violence such as racism. In this campaign, anti-racist solidarity appeared alongside fandom pride. That gives us a basis for this interpretation, but we still need evidence of sustained engagement.
+Not by itself. I see a peace-oriented character because fans expressed support against racism. But I cannot say this became a lasting peace movement. I only studied one month of tweets.
 
 **한국어 답변**
 
-기부만으로는 충분하지 않습니다. 제 주장은 확립된 평화운동보다는 평화 지향적 성격에 관한 것입니다. 갈퉁의 적극적 평화는 인종차별 같은 구조적 폭력에 대응하는 것을 포함합니다. 이 캠페인에서는 반인종차별 연대가 팬덤의 자부심과 함께 나타났습니다. 이것이 해석의 근거이지만, 지속적 참여를 보여주는 증거는 더 필요합니다.
+기부만으로는 아닙니다. 팬들이 인종차별에 맞선 지지를 표현했기 때문에 평화 지향적 성격으로 봅니다. 하지만 지속적인 평화운동이 됐다고 말할 수는 없습니다. 제가 연구한 것은 한 달치 트윗입니다.
 
 관련: 본문 01·03·10 / 부록 B1
 
@@ -24,11 +24,11 @@ A donation alone is not enough. My claim concerns a peace-oriented character, ra
 
 **English answer**
 
-The thick line represents a raw count, not an association above chance. Both codes are common, so frequent overlap is expected. Their odds ratio was 0.63. By contrast, references to the artist's action had an odds ratio of 2.1 with solidarity. I therefore retain co-occurrence, but refine the idea that affection itself provides the bridge.
+The thick line shows how often two codes appear together. Both codes are common, so the line can be thick by chance. The tests link solidarity more clearly to the artist's example than to affection alone.
 
 **한국어 답변**
 
-굵은 선은 원래의 동시출현 빈도이지, 우연 기대치를 넘는 연관이 아닙니다. 두 코드가 모두 흔하므로 자주 겹칠 수 있습니다. 두 코드의 승산비는 0.63이었습니다. 반면 아티스트의 행동을 언급하는 표현과 연대의 승산비는 2.1이었습니다. 따라서 공존이라는 발견은 유지하되, 애정 자체가 다리라는 해석은 더 구체화합니다.
+굵은 선은 두 코드가 함께 나타난 빈도를 보여줍니다. 두 코드가 모두 흔하므로 우연히 굵은 선이 생길 수 있습니다. 검정에서는 애정 자체보다 아티스트의 본보기가 연대와 더 뚜렷하게 연결됐습니다.
 
 관련: 본문 07 / 부록 B10
 
@@ -38,11 +38,11 @@ The thick line represents a raw count, not an association above chance. Both cod
 
 **English answer**
 
-The odds of a solidarity code were about 2.1 times as high in tweets mentioning the artist's influence as in those without that code. This is not a probability ratio or a causal effect. The artist association survived multiple-test correction. The identity estimate pointed in the same direction, but was not statistically conclusive, so it remains exploratory.
+The odds of a solidarity code were 2.1 times as high with an artist influence code as without it. This does not prove cause and effect. The artist result survived correction for multiple tests. The identity result was not statistically clear.
 
 **한국어 답변**
 
-아티스트 영향 코드가 있는 트윗에서 연대 코드가 나타날 승산이, 그 코드가 없는 트윗보다 약 2.1배 높았다는 뜻입니다. 확률이 2.1배라는 뜻도, 인과효과라는 뜻도 아닙니다. 아티스트 관련 연관은 다중 검정 보정 뒤에도 유지됐습니다. 정체성 결과도 같은 방향이었지만 통계적으로 확정할 수 없어 탐색적 결과로 둡니다.
+아티스트 영향 코드가 있을 때 연대 코드가 나타날 승산은 없을 때보다 2.1배였습니다. 이것이 인과관계를 입증하지는 않습니다. 아티스트 관련 결과는 다중 검정 보정 뒤에도 유지됐습니다. 정체성 결과는 통계적으로 분명하지 않았습니다.
 
 **추가 질문이 있을 때**
 
@@ -51,6 +51,8 @@ Which correction did you use?
 I checked the nine reported pairwise tests against a Bonferroni threshold of about .0056. The artist–solidarity association remained significant. The relationship–solidarity result did not survive that correction, so I would not present it as a confirmed negative association.
 
 보고한 쌍별 검정 9개에 대해 약 .0056의 본페로니 기준을 적용했습니다. 아티스트–연대 연관은 유지됐습니다. 관계 강조–연대 결과는 보정 뒤 유의하지 않으므로, 확인된 음의 연관으로 주장하지 않습니다.
+
+뜻 확인: odds는 승산입니다. 확률이 2.1배라는 뜻은 아닙니다.
 
 수치 확인: 관계–연대 OR 0.63, 미보정 p=.037 / 아티스트–연대 OR 2.13, p=.002 / 정체성–연대 OR 1.64, p=.069. 발표 본문에서는 아티스트 결과를 2.1로 반올림합니다.
 
@@ -62,11 +64,11 @@ I checked the nine reported pairwise tests against a Bonferroni threshold of abo
 
 **English answer**
 
-That is an important limitation. The tests treat tweets as independent, but posts may share users or threads. I therefore treat the p-values as provisional and emphasize the observed proportions and their scope. The rise from 40 to 64 percent describes this sample's discourse, not individual change. A stronger analysis would account for clustering by user.
+Yes, that is a limit. Some tweets may come from the same user, so the p-values need caution. I focus on the observed pattern. It shows a change in the tweets, not a change in people.
 
 **한국어 답변**
 
-중요한 한계입니다. 검정은 트윗을 독립적으로 다루지만, 게시물은 같은 사용자나 스레드에서 나올 수 있습니다. 따라서 p값은 잠정적으로 보고, 관찰된 비율과 그 범위를 강조합니다. 40퍼센트에서 64퍼센트로 오른 것은 이 표본의 담론 구성에 관한 결과이며, 개인의 변화가 아닙니다. 더 엄밀하게 분석하려면 사용자별 군집을 반영해야 합니다.
+네, 그것은 한계입니다. 일부 트윗은 같은 사용자가 썼을 수 있으므로 p값은 조심해서 봐야 합니다. 저는 관찰된 패턴에 초점을 둡니다. 이것은 트윗의 변화이지 사람의 변화가 아닙니다.
 
 **표본 수나 도표 단위를 물으면**
 
@@ -82,11 +84,11 @@ The early sample contained 374 tweets and the late sample 58. A larger share doe
 
 **English answer**
 
-A keyword script made the initial assignments, and I manually reviewed every result. About one in five assignments changed. That makes the manual review substantive, but it does not establish independent coder agreement. We did not have a second coder. My next step is independent recoding, especially for difficult boundaries between donation reports, solidarity and artist influence.
+I checked every coding result by hand. About one in five assignments changed. But there was no second coder, so this is not an independent reliability check. I plan to have another researcher code the data.
 
 **한국어 답변**
 
-키워드 스크립트로 1차 코딩하고, 제가 모든 결과를 수동 검토했습니다. 코드 부여의 약 5분의 1이 바뀌었습니다. 수동 검토가 실질적이었다는 뜻이지만, 독립 코더 간 일치를 입증하지는 않습니다. 두 번째 코더는 없었습니다. 특히 기부 보고·연대·아티스트 영향 사이의 어려운 경계를 독립 재코딩으로 확인하는 것이 다음 단계입니다.
+모든 코딩 결과를 수동으로 확인했습니다. 코드 부여의 약 5분의 1이 바뀌었습니다. 하지만 두 번째 코더가 없었으므로 독립적인 신뢰도 검증은 아닙니다. 다른 연구자가 자료를 코딩하도록 할 계획입니다.
 
 **카파 0.46을 물으면**
 
@@ -102,11 +104,11 @@ That compares the keyword pass with my final manual coding. It is not independen
 
 **English answer**
 
-Many expressions were brief, and only about thirty tweets explained the cause in their own words. I therefore do not equate a solidarity code with a deeply held commitment. During manual review, I removed assignments based only on reporting a donation. Even the remaining expressions establish public discourse, not the strength of a person's beliefs or lasting participation.
+Yes, many were short. Only about thirty tweets explained the cause in their own words. I removed codes based only on a donation report. These expressions show public support, but they do not prove deep beliefs or lasting action.
 
 **한국어 답변**
 
-짧은 표현이 많았고, 대의를 자기 말로 설명한 트윗은 약 서른 건이었습니다. 따라서 연대 코드가 깊은 신념을 뜻한다고 보지는 않습니다. 수동 검토에서 기부했다는 사실만으로 부여된 코드는 제거했습니다. 남은 표현 역시 공적으로 드러난 담론을 보여줄 뿐, 개인의 신념 강도나 지속적 참여를 입증하지는 않습니다.
+네, 짧은 표현이 많았습니다. 대의를 자기 말로 설명한 트윗은 약 서른 건뿐이었습니다. 기부 보고만을 근거로 부여한 코드는 제거했습니다. 이런 표현은 공적인 지지를 보여주지만, 깊은 신념이나 지속적 행동을 입증하지는 않습니다.
 
 관련: 본문 04·08·10
 
