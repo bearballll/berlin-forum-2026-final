@@ -1,6 +1,6 @@
 # 베를린 발표 예상 질문과 답변 v8.10
 
-최종 한영 대본과 PPT v8.10에 맞춘 질의응답 연습용 노트입니다. 영어 답변을 먼저 읽고 한국어로 뜻을 확인하세요. 우선 연습할 질문은 1~6번입니다. 1~6번 핵심 답변은 영어 3~4개의 짧은 문장으로 줄였습니다. 첫 문장으로 바로 답하고, 더 물을 때만 아래 보충 답변을 사용하세요. 7~18번은 기존 답변을 유지했습니다. 실제 질문 내용과 답변 시간은 아직 확인하지 않았습니다.
+최종 한영 대본과 PPT v8.10에 맞춘 질의응답 연습용 노트입니다. 영어 답변을 먼저 읽고 한국어로 뜻을 확인하세요. 우선 연습할 질문은 1~6번입니다. 1~18번 답변을 모두 영어 3~4개의 짧은 문장으로 정리했습니다. 첫 문장으로 바로 답하고, 더 물을 때만 아래 보충 답변을 사용하세요. 실제 질문 내용과 답변 시간은 아직 확인하지 않았습니다.
 
 [최종 PPT·한영 대본 모음](https://github.com/bearballll/berlin-forum-2026-final/releases/tag/v8.10)
 
@@ -118,11 +118,11 @@ Yes, many were short. Only about thirty tweets explained the cause in their own 
 
 **English answer**
 
-I use hybrid to describe different orientations within one campaign. Of 460 tweets, 168 carried both a fandom code and a peace code. That shows coexistence within expressions. It does not mean all fans shared both orientations, that affection caused solidarity, or that participants progressed from a fandom stage to a peace-movement stage.
+I mean that fandom pride and solidarity appeared together. Both code types appeared in 168 of 460 tweets. This does not mean every fan held both views. It also does not show a move from fandom to a peace movement.
 
 **한국어 답변**
 
-혼종은 한 캠페인 안에 서로 다른 지향이 함께 있다는 뜻으로 씁니다. 트윗 460건 중 168건에 팬덤 코드와 평화 코드가 함께 있었습니다. 이는 표현 안의 공존을 보여줍니다. 모든 팬이 두 지향을 공유했다거나, 애정이 연대를 일으켰다거나, 팬덤 단계에서 평화운동 단계로 발전했다는 뜻은 아닙니다.
+팬덤의 자부심과 연대가 함께 나타났다는 뜻입니다. 트윗 460건 중 168건에 두 종류의 코드가 함께 있었습니다. 모든 팬이 두 관점을 가졌다는 뜻은 아닙니다. 팬덤에서 평화운동으로 전환했다는 것을 보여주지도 않습니다.
 
 관련: 본문 05·07·14
 
@@ -132,11 +132,11 @@ I use hybrid to describe different orientations within one campaign. Of 460 twee
 
 **English answer**
 
-Not directly. The theory helps me interpret how shareable personal acts coexist with coordination. One In An ARMY organized information, and solidarity was associated with references to the artist's action. That suggests organizationally enabled connective action as a useful interpretation. It does not demonstrate the mechanism, and the possible role of shared identity needs further testing.
+Not directly. The theory helps me understand personal action and group coordination. Fans made their own pledges, while One In An ARMY shared information. This suggests a role for organizers, but it does not prove how the process worked.
 
 **한국어 답변**
 
-직접 검증한 것은 아닙니다. 이론은 공유하기 쉬운 개인적 행동과 조율이 어떻게 함께 있는지를 해석하는 데 도움을 줍니다. 원인언아미가 정보를 조직했고, 연대는 아티스트의 행동을 언급하는 표현과 관련됐습니다. 조직이 가능하게 하는 연결 행동이라는 해석을 시사하지만, 기제를 입증한 것은 아니며 공유 정체성의 역할도 추가 검정이 필요합니다.
+직접 검증한 것은 아닙니다. 이론은 개인의 행동과 집단의 조율을 이해하는 데 도움이 됩니다. 팬들이 각자 기부를 약속하는 동안 원인언아미는 정보를 공유했습니다. 조직자의 역할을 시사하지만, 그 과정이 어떻게 작동했는지를 입증하지는 않습니다.
 
 관련: 본문 03·07
 
@@ -146,11 +146,11 @@ Not directly. The theory helps me interpret how shareable personal acts coexist 
 
 **English answer**
 
-The artist's example mattered in the discourse, but that does not make fans passive. One In An ARMY had been active since 2018, and Black ARMYs had already raised racism within the fandom. I therefore see the artist's action meeting an existing organizational and discursive history. These tweets cannot establish how much each participant was influenced by either.
+Fans were not simply following BTS. One In An ARMY had worked since 2018, and Black fans had already raised racism within ARMY. The artist's action met that history. But I cannot measure each fan's reasons from these tweets.
 
 **한국어 답변**
 
-담론에서 아티스트의 본보기는 중요했지만, 그렇다고 팬이 수동적이었다는 뜻은 아닙니다. 원인언아미는 2018년부터 활동했고, 흑인 아미는 이미 팬덤 안에서 인종차별 문제를 제기했습니다. 따라서 아티스트의 행동이 기존의 조직 활동·담론 역사와 만난 것으로 봅니다. 다만 각 참여자가 어느 쪽에서 얼마나 영향을 받았는지는 이 트윗으로 알 수 없습니다.
+팬들이 단순히 BTS를 따라 하기만 한 것은 아닙니다. 원인언아미는 2018년부터 활동했고, 흑인 팬들은 이미 아미 내부에서 인종차별 문제를 제기했습니다. 아티스트의 행동은 그 역사와 만났습니다. 하지만 이 트윗으로 각 팬의 행동 이유를 측정할 수는 없습니다.
 
 관련: 본문 02·07·08
 
@@ -160,11 +160,11 @@ The artist's example mattered in the discourse, but that does not make fans pass
 
 **English answer**
 
-Black fans are part of the fandom, not simply outside beneficiaries. The paper draws on Lee and Kao to recognize their role in raising racism internally. But I cannot identify or represent Black fans' experiences from this sample, and I did not study cultural appropriation. That makes direct engagement with affected people's accounts an important next step.
+Black fans are part of ARMY. Lee and Kao show that they raised racism within the fandom. But my data cannot speak for their experiences, and I did not study cultural appropriation. I need to hear directly from them.
 
 **한국어 답변**
 
-흑인 팬은 단순히 외부의 수혜자가 아니라 팬덤의 일부입니다. 논문은 리와 카오를 통해 이들이 내부에서 인종차별 문제를 제기한 역할을 짚습니다. 그러나 이 표본으로 흑인 팬의 경험을 식별하거나 대표할 수는 없고, 문화적 전유를 연구한 것도 아닙니다. 따라서 당사자의 이야기를 직접 듣는 일이 중요한 다음 단계입니다.
+흑인 팬은 아미의 일부입니다. 리와 카오는 이들이 팬덤 안에서 인종차별 문제를 제기했음을 보여줍니다. 하지만 제 자료가 이들의 경험을 대변하지는 못하고, 문화적 전유를 연구한 것도 아닙니다. 이들의 이야기를 직접 들어야 합니다.
 
 관련: 본문 08·12
 
@@ -174,11 +174,11 @@ Black fans are part of the fandom, not simply outside beneficiaries. The paper d
 
 **English answer**
 
-No. We collected 628 tweets with campaign keywords and retained 460 relevant English tweets. This is a bounded sample of discourse, not a representative sample of the fandom. English also does not establish nationality. I cannot compare Korean and overseas fans from it. That would require additional language samples and a careful basis for comparison.
+No, the sample does not represent the whole fandom. I studied 460 relevant English tweets. English does not tell us a person's nationality. To compare Korean and overseas fans, I would need more data and a clear way to identify those groups.
 
 **한국어 답변**
 
-아닙니다. 캠페인 키워드로 트윗 628건을 수집하고 관련 있는 영어 트윗 460건을 남겼습니다. 제한된 담론 표본이며 팬덤의 대표 표본이 아닙니다. 영어 사용으로 국적도 알 수 없습니다. 이 자료로 국내외 팬을 비교할 수는 없고, 다른 언어 표본과 신중한 비교 기준이 필요합니다.
+아닙니다. 이 표본은 팬덤 전체를 대표하지 않습니다. 제가 연구한 것은 관련 있는 영어 트윗 460건입니다. 영어를 쓴다는 것으로 국적을 알 수는 없습니다. 국내외 팬을 비교하려면 더 많은 자료와 두 집단을 식별할 명확한 기준이 필요합니다.
 
 관련: 본문 04·10
 
@@ -188,11 +188,11 @@ No. We collected 628 tweets with campaign keywords and retained 460 relevant Eng
 
 **English answer**
 
-The connection runs through attachment to a Korean artist. My data do not show that fans acted because the artist was Korean, or that the campaign fulfilled a Korean national objective. It fits the Forum's receiver-side question: what people do with cultural attachment. Here, that attachment became a route into an anti-racist issue in the United States.
+The link is attachment to a Korean artist. Fans used that attachment to engage with racism in the United States. I cannot say they acted because BTS are Korean. My focus is what fans do with Hallyu, not Korea's national goals.
 
 **한국어 답변**
 
-한국과의 연결은 한국 아티스트에 대한 애착을 통해 이루어집니다. 아티스트가 한국인이어서 행동했다거나 한국의 국가적 목표를 실현했다는 것을 보여주는 자료는 아닙니다. 포럼의 수용자 쪽 질문, 즉 사람들이 문화적 애착으로 무엇을 하는가와 연결됩니다. 여기서는 그 애착이 미국의 반인종차별 문제에 참여하는 경로가 됐습니다.
+한국 아티스트에 대한 애착이 연결고리입니다. 팬들은 그 애착을 통해 미국의 인종차별 문제에 참여했습니다. BTS가 한국인이어서 행동했다고 말할 수는 없습니다. 제 관심은 한국의 국가적 목표보다 팬들이 한류를 통해 무엇을 하는가에 있습니다.
 
 관련: 본문 13
 
@@ -202,11 +202,11 @@ The connection runs through attachment to a Korean artist. My data do not show t
 
 **English answer**
 
-Those concepts offer possible connections, but my evidence is narrower. I observe expressions linking fandom attachment to a specific anti-racist agenda. I do not measure cosmopolitan dispositions, national influence or diplomatic outcomes. I would therefore use those ideas as questions for comparison, rather than label this campaign as proof of either cosmopolitanism or Korean soft power.
+Those ideas may help, but my evidence is narrower. I studied how fans expressed support against racism. I did not measure their attitudes toward other cultures or Korea's influence. So I would not call this proof of either idea.
 
 **한국어 답변**
 
-그 개념들과 연결해 볼 수는 있지만, 제 증거의 범위는 더 좁습니다. 팬덤의 애착이 특정 반인종차별 의제와 연결되는 표현을 관찰했습니다. 코스모폴리턴 성향이나 국가적 영향력, 외교 성과를 측정하지 않았습니다. 따라서 비교를 위한 질문으로 활용하되, 이 캠페인이 코스모폴리터니즘이나 한국 소프트파워를 입증한다고 부르지는 않겠습니다.
+그 개념들이 도움이 될 수는 있지만, 제 증거의 범위는 더 좁습니다. 저는 팬들이 인종차별에 맞선 지지를 어떻게 표현했는지 연구했습니다. 다른 문화에 대한 태도나 한국의 영향력을 측정하지는 않았습니다. 따라서 어느 개념도 입증한 사례라고 부르지는 않겠습니다.
 
 관련: 본문 10·13
 
@@ -216,11 +216,11 @@ Those concepts offer possible connections, but my evidence is narrower. I observ
 
 **English answer**
 
-No. They involve different fandoms and participants, so they cannot establish continuity among the 2020 participants. REMINE's flood relief and Kpop4Planet's climate-finance campaign instead open a comparative question: which public problems does cohesion connect to? The hometown link in the relief case remains a question, and I do not claim a verified policy outcome for the climate campaign.
+No, these campaigns involve different fans. They cannot show whether the 2020 participants stayed active. They help me compare which public problems fandoms support. The hometown link remains a question, and I have not shown a policy result.
 
 **한국어 답변**
 
-아닙니다. 다른 팬덤과 참여자이므로 2020년 참여자들의 지속성을 입증하지 못합니다. 리마인의 수해 구호와 케이팝포플래닛의 기후 금융 캠페인은 결속이 어떤 공적 문제와 연결되는가라는 비교 질문을 엽니다. 구호 사례에서 고향과의 연결은 여전히 질문이며, 기후 캠페인의 정책 성과가 검증됐다고 주장하지도 않습니다.
+아닙니다. 이 캠페인들은 서로 다른 팬들이 참여한 사례입니다. 2020년 참여자들이 계속 활동했는지를 보여주지는 못합니다. 팬덤이 어떤 공적 문제를 지지하는지 비교하는 데 도움이 됩니다. 고향과의 연결은 여전히 질문이며, 정책 성과를 입증한 것도 아닙니다.
 
 관련: 본문 11·12 / 부록 B2·B4
 
@@ -230,11 +230,11 @@ No. They involve different fandoms and participants, so they cannot establish co
 
 **English answer**
 
-That is outside what this study directly tested. The tweets show public expressions and some coordination, but they do not reveal platform recommendation systems, commercial incentives or the full organization of fan labor. I would not treat participation as independent of those conditions. A fuller study would need evidence about platform circulation and organizational practices alongside fans' accounts.
+I did not test those roles directly. The tweets do not show how algorithms or business interests shaped participation. That does not mean they were unimportant. I would need data on platforms and organizations, alongside interviews with fans.
 
 **한국어 답변**
 
-그것은 이 연구가 직접 검정한 범위 밖입니다. 트윗은 공적 표현과 일부 조율을 보여주지만, 추천 시스템·상업적 유인·팬 노동의 전체 조직 방식까지 드러내지는 않습니다. 참여가 그런 조건과 무관하다고 보지는 않습니다. 더 충분한 연구를 위해서는 팬들의 이야기와 함께 플랫폼 유통·조직 운영에 관한 증거가 필요합니다.
+그 역할들을 직접 검정하지는 않았습니다. 트윗은 알고리즘이나 기업의 이해관계가 참여를 어떻게 형성했는지 보여주지 않습니다. 그렇다고 중요하지 않았다는 뜻은 아닙니다. 팬 인터뷰와 함께 플랫폼과 조직에 관한 자료가 더 필요합니다.
 
 관련: 본문 04·10·12
 
@@ -244,11 +244,11 @@ That is outside what this study directly tested. The tweets show public expressi
 
 **English answer**
 
-No. Cohesion alone does not tell us which agenda a group will support. This study concerns one anti-racist campaign and one month of English tweets. Even within that campaign, expressions varied. My question is therefore conditional: when does cohesion connect to a public problem, and when can that engagement last? It is not a claim about fandom's inherent politics.
+No, I do not make that claim. This is one campaign and one month of English tweets. Strong bonds alone do not make a group peaceful or progressive. I ask which causes fans support and whether their action lasts.
 
 **한국어 답변**
 
-아닙니다. 결속만으로 어떤 의제를 지지할지 알 수는 없습니다. 이 연구는 하나의 반인종차별 캠페인과 한 달치 영어 트윗에 관한 것이며, 그 안에서도 표현은 다양했습니다. 따라서 질문은 조건에 관한 것입니다. 결속이 언제 공적 문제와 연결되고, 그 참여가 언제 지속될 수 있는가이지 팬덤의 본래 정치성에 대한 주장이 아닙니다.
+아닙니다. 그런 주장을 하는 것은 아닙니다. 하나의 캠페인과 한 달치 영어 트윗에 관한 연구입니다. 강한 유대만으로 집단이 평화적이거나 진보적이 되는 것은 아닙니다. 저는 팬들이 어떤 대의를 지지하고 그 행동이 지속되는지를 묻습니다.
 
 관련: 본문 05·10·12
 
@@ -258,11 +258,11 @@ No. Cohesion alone does not tell us which agenda a group will support. This stud
 
 **English answer**
 
-I returned to the coded data to distinguish frequent co-occurrence from association beyond chance. That refined the bridge interpretation toward the artist's example. I also examined the time pattern at the tweet level, while keeping the independence and sample-size limitations explicit. The later campaigns add comparative questions, rather than new evidence about the original participants' continuity.
+I checked whether the links were stronger than chance. This gave more support to the artist's example than to affection alone. I also compared early and late tweets. The later campaigns add questions for comparison, not proof of lasting participation.
 
 **한국어 답변**
 
-코딩 데이터로 돌아가 자주 함께 나타나는 것과 우연 기대치를 넘는 연관을 구분했습니다. 이를 통해 다리라는 해석을 아티스트의 본보기 쪽으로 더 구체화했습니다. 시간적 패턴도 트윗 단위로 분석하되, 독립성과 표본 크기의 한계를 명시했습니다. 이후 캠페인은 원래 참여자의 지속성에 관한 새 증거가 아니라 비교 질문을 더합니다.
+연결이 우연 기대치보다 강한지를 확인했습니다. 그 결과 애정 자체보다 아티스트의 본보기 쪽에 더 근거가 있었습니다. 초기와 후기 트윗도 비교했습니다. 이후의 캠페인은 비교 질문을 더하는 것이지, 지속적 참여를 입증하는 것은 아닙니다.
 
 관련: 본문 01·07·09·11
 
@@ -272,11 +272,11 @@ I returned to the coded data to distinguish frequent co-occurrence from associat
 
 **English answer**
 
-It needs to distinguish a recurring type of campaign from sustained participation by the same people. I plan common coding criteria across cases, fan interviews, longer observation and independent recoding. Together, these could examine how fans name a problem, connect with affected people and maintain engagement. I would also look for cases where strong cohesion does not produce sustained public engagement.
+I need to see whether the same people keep taking part. I plan interviews, longer observation and common coding rules across cases. Another researcher should also check the coding. I would study cases where participation fades as well.
 
 **한국어 답변**
 
-비슷한 캠페인이 반복되는 것과 같은 사람들이 지속적으로 참여하는 것을 구분해야 합니다. 사례 간 공통 코딩 기준, 팬 인터뷰, 장기 관찰, 독립 재코딩을 계획합니다. 이를 통해 팬들이 문제를 어떻게 이름 붙이고 당사자와 연결되며 참여를 유지하는지 살펴볼 수 있습니다. 결속은 강하지만 공적 참여가 지속되지 않는 사례도 보겠습니다.
+같은 사람들이 계속 참여하는지 확인해야 합니다. 인터뷰와 장기 관찰, 사례 간 공통 코딩 기준을 계획합니다. 다른 연구자도 코딩을 확인해야 합니다. 참여가 약해지는 사례도 함께 살펴보겠습니다.
 
 관련: 본문 12 / 부록 B5
 
