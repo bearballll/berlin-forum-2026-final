@@ -1,5 +1,67 @@
 # 베를린 발표 Q&A 한영 쉬운판 (2026-11-11)
 
+## 줄리아의 현장 질문과 짧은 한영 답변
+
+Julia Trzcińska의 1차 질문 메모를 네 가지 쟁점으로 나눴습니다. 아래 질문은 메모를 바탕으로 재구성했으며 정확한 발언 전사는 아닙니다. 각 답변은 영어 또는 한국어 중 한 언어로 말합니다.
+
+### J1. 케이팝 팬덤은 무엇이 다른가
+
+**질문 EN:** How is K-pop fandom different?
+
+**질문 KO:** 케이팝 팬덤은 무엇이 다른가?
+
+**답변 EN:**
+
+I focus on fans’ love for BTS, their shared identity, and their shared goals. These can help us understand this campaign. But I do not claim they are unique to K-pop. That would need comparison with other groups.
+
+**답변 KO:**
+
+BTS에 대한 팬들의 애정, 공유된 정체성, 공동 목표에 주목했습니다. 이것들은 이 캠페인을 이해하는 데 도움이 됩니다. 하지만 케이팝만의 특징이라고 주장하지는 않습니다. 그러려면 다른 집단과 비교해야 합니다.
+
+### J2. 트윗으로 개인의 동기를 알 수 있는가
+
+**질문 EN:** Can tweets tell us why individual fans took part?
+
+**질문 KO:** 트윗으로 개인의 동기를 알 수 있는가?
+
+**답변 EN:**
+
+The tweets show what fans said about their actions, but not their deeper motives. I cannot tell whether they joined mainly for BTS or for the cause. Interviews would help me understand that better.
+
+**답변 KO:**
+
+트윗은 팬들이 자신의 행동에 대해 한 말은 보여주지만, 깊은 동기까지 알려주지는 않습니다. 주로 BTS 때문인지, 대의 때문인지 구분할 수는 없습니다. 이를 더 잘 이해하려면 인터뷰가 도움이 됩니다.
+
+### J3. 연대를 어떻게 조작적으로 정의했는가
+
+**질문 EN:** How did you measure solidarity?
+
+**질문 KO:** 연대를 어떻게 조작적으로 정의했는가?
+
+**답변 EN:**
+
+I counted a tweet as expressing solidarity when it clearly supported a cause such as Black Lives Matter. A hashtag alone did not count. This measures expressed support, not how deeply someone cared or how long they stayed involved.
+
+**답변 KO:**
+
+블랙 라이브스 매터 같은 대의를 분명히 지지한 트윗에 연대 표명 코드를 붙였습니다. 해시태그만으로는 세지 않았습니다. 이것은 표현된 지지를 측정하는 것이지, 얼마나 깊이 공감했거나 얼마나 오래 참여했는지를 측정하는 것은 아닙니다.
+
+### J4. 클릭티비즘인가 평화운동인가
+
+**질문 EN:** Is this just clicktivism, rather than a peace movement?
+
+**질문 KO:** 클릭티비즘인가 평화운동인가?
+
+**답변 EN:**
+
+The campaign raised real money, so it had a result beyond clicks. But a donation alone does not make it a peace movement. I found some peace-oriented language. To call it a lasting movement, we need evidence that people kept organizing and taking action.
+
+**답변 KO:**
+
+캠페인이 실제 기부금을 모았으므로 클릭을 넘어선 결과는 있었습니다. 하지만 기부만으로 평화운동이 되는 것은 아닙니다. 제가 확인한 것은 일부 평화 지향적 표현입니다. 지속적인 운동이라고 하려면 사람들이 계속 조직하고 행동했다는 근거가 필요합니다.
+
+---
+
 ## 현장 패널 예상 질문 6개
 
 다른 발표의 논평에서 반복된 개념, 중간 행위자, 인과관계, 분석 기준, 지속성, 비교의 질문을 이번 발표에 적용한 우선 답변입니다. 발표 대본 v8.44와 같은 범위에서 답합니다. 먼저 각 질문의 **30초 답변**을 말하고, 추가 설명을 요청받으면 **상세 답변**을 이어갑니다. 시간이 더 짧으면 **핵심 한 줄**만 말합니다. 30초는 영어 또는 한국어 중 한 언어만 말할 때의 목표 시간이며, 두 언어를 연이어 읽는 시간이 아닙니다. 영어는 기존 리허설 속도 기준 약 28~30초 분량이고, 실제 낭독 시간은 아직 측정하지 않았습니다.
