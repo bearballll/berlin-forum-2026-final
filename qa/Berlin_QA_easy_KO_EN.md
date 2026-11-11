@@ -2,7 +2,7 @@
 
 ## 현장 패널 예상 질문 6개
 
-다른 발표의 논평에서 반복된 개념, 중간 행위자, 인과관계, 분석 기준, 지속성, 비교의 질문을 이번 발표에 적용한 우선 답변입니다. 발표 대본 v8.44와 같은 범위에서 답합니다. 시간이 짧으면 각 질문의 **핵심 한 줄**부터 말하고, 추가 설명을 요청받으면 상세 답변을 이어갑니다.
+다른 발표의 논평에서 반복된 개념, 중간 행위자, 인과관계, 분석 기준, 지속성, 비교의 질문을 이번 발표에 적용한 우선 답변입니다. 발표 대본 v8.44와 같은 범위에서 답합니다. 먼저 각 질문의 **30초 답변**을 말하고, 추가 설명을 요청받으면 **상세 답변**을 이어갑니다. 시간이 더 짧으면 **핵심 한 줄**만 말합니다. 30초는 영어 또는 한국어 중 한 언어만 말할 때의 목표 시간이며, 두 언어를 연이어 읽는 시간이 아닙니다. 영어는 기존 리허설 속도 기준 약 28~30초 분량이고, 실제 낭독 시간은 아직 측정하지 않았습니다.
 
 | 바로가기 | 먼저 띄울 슬라이드 |
 |---|---|
@@ -21,7 +21,15 @@
 
 **질문의 초점:** ‘좋은 일을 했다’는 평가와 평화 연구의 분석 개념을 구분할 수 있는가. 평화라는 말의 범위가 지나치게 넓은 것은 아닌가.
 
-**영어 답변:**
+**30초 답변 EN:**
+
+> I use positive peace because it includes addressing structural violence such as racism. About three in ten tweets explicitly expressed solidarity or human-rights values. That supports a limited peace-oriented reading, but it does not show that the campaign reduced racism or became a lasting movement.
+
+**30초 답변 KO:**
+
+> 적극적 평화는 인종차별 같은 구조적 폭력에 대응하는 것도 포함하기 때문에 이 관점을 사용했습니다. 트윗 열 건 중 세 건 정도가 연대나 인권을 명시적으로 말했습니다. 그래서 제한적인 평화 지향적 성격은 읽을 수 있지만, 실제로 인종차별을 줄였거나 지속적인 운동이 됐다고 입증한 것은 아닙니다.
+
+**상세 답변 EN (추가 질문 시):**
 
 > I would distinguish the charitable act from the way people connected it to a public problem. A donation by itself is not enough for me to call something peace-oriented. I use Galtung’s positive peace as a framework because it directs attention to structural violence, including racism.
 >
@@ -29,7 +37,7 @@
 >
 > So charity describes the form of action, while the peace perspective asks what public problem the action was linked to. Those descriptions can coexist. Calling it a sustained peace movement would require further evidence about continuing collective engagement, which this month of tweets cannot provide.
 
-**한국어 답변:**
+**상세 답변 KO (추가 질문 시):**
 
 > 저는 자선행위 자체와, 사람들이 그 행위를 어떤 공적 문제와 연결했는지를 구분하고 싶습니다. 기부했다는 사실만으로 평화 지향적이라고 부르는 것은 아닙니다. 갈퉁의 적극적 평화를 틀로 사용하는 이유는 인종차별을 포함한 구조적 폭력에 주목하게 해주기 때문입니다.
 >
@@ -51,7 +59,15 @@
 
 **질문의 초점:** 아티스트의 영향력만으로 참여를 설명하지 않고, 그 사이에서 공동 행동을 조직한 행위자를 설명할 수 있는가.
 
-**영어 답변:**
+**30초 답변 EN:**
+
+> BTS provided a public example. One In An ARMY gave fans a shared goal: matching one million dollars. It helped organize separate donations into a collective campaign. But my tweets do not reveal internal decisions, so explaining that process fully would require interviews with organizers.
+
+**30초 답변 KO:**
+
+> BTS가 공개적인 본보기를 제공했다면, 원인언아미는 팬들이 함께 100만 달러를 맞춘다는 공동 목표를 제시했습니다. 개별 기부들을 하나의 캠페인으로 조직한 것입니다. 다만 제 트윗 자료는 내부 의사결정을 보여주지 않으므로, 그 과정을 충분히 설명하려면 운영자 인터뷰가 필요합니다.
+
+**상세 답변 EN (추가 질문 시):**
 
 > One In An ARMY was an important intermediary. BTS’s public donation offered a visible example, but the fan organization launched the matching campaign and gave participation a shared target: fans would collectively match one million dollars. That helped turn many separate donations into a recognizable collective campaign.
 >
@@ -59,7 +75,7 @@
 >
 > However, I cannot say that the campaign would have been impossible without this organization. My tweets show public expressions around the campaign, not the group’s internal decisions or a comparison with a campaign lacking an organizer. To explain that process more fully, I would need interviews with organizers and a reconstruction of their decisions and coordination.
 
-**한국어 답변:**
+**상세 답변 KO (추가 질문 시):**
 
 > 원인언아미는 중요한 중간 행위자였습니다. BTS의 공개 기부가 눈에 보이는 본보기를 제공했다면, 팬 조직은 동일 금액 모금 캠페인을 시작하고 팬들이 함께 100만 달러를 맞춘다는 공동 목표를 제시했습니다. 그렇게 개별적인 기부들이 하나의 집합적 캠페인으로 연결됐습니다.
 >
@@ -81,7 +97,15 @@
 
 **질문의 초점:** 아티스트가 관심을 새로 만들었다는 설명과, 기존 관심을 표현하는 계기를 제공했다는 설명을 구분할 수 있는가.
 
-**영어 답변:**
+**30초 답변 EN:**
+
+> Yes, some fans said they had donated before BTS did. My finding is that mentioning BTS’s donation was associated with more explicit solidarity. It does not show that BTS created their concern about racism. The artist may have helped fans express a commitment they already had.
+
+**30초 답변 KO:**
+
+> 네, 일부 팬은 BTS보다 먼저 기부했다고 말했습니다. 제가 확인한 것은 BTS의 기부를 언급한 트윗에서 명시적 연대가 더 많이 나타났다는 연관성입니다. BTS가 팬들의 인종차별에 대한 관심을 만들어냈다는 증거는 아닙니다. 이미 갖고 있던 관심을 표현하는 준거가 됐을 수 있습니다.
+
+**상세 답변 EN (추가 질문 시):**
 
 > Yes, that is a plausible explanation, and I do not rule it out. Some fans explicitly said they had donated before BTS’s donation became public. Research discussed in the presentation also shows that Black ARMYs had already raised racism within the fandom. So I would not describe the fans as starting with no political concerns and simply receiving them from the artist.
 >
@@ -89,7 +113,7 @@
 >
 > My interpretation is that the artist’s action provided one public reference point for expressing solidarity. Existing commitments, the artist’s example, and fan organizing could have met in the same campaign. Separating their effects would require evidence about participants’ earlier views and experiences.
 
-**한국어 답변:**
+**상세 답변 KO (추가 질문 시):**
 
 > 네, 충분히 가능한 설명이고, 저는 그 가능성을 배제하지 않습니다. 실제로 일부 팬은 BTS의 기부가 공개되기 전에 이미 기부했다고 말했습니다. 발표에서 다룬 선행연구도 흑인 아미가 이전부터 팬덤 안에서 인종차별 문제를 제기했음을 보여줍니다. 그래서 정치적 관심이 전혀 없던 팬들이 아티스트에게서 그 관심을 일방적으로 받았다고 설명하지는 않습니다.
 >
@@ -111,7 +135,15 @@
 
 **질문의 초점:** 코드 분류의 경계가 결론을 만들어낸 것은 아닌가. 특히 ‘외부 인정’을 평화 지향에 넣은 선택을 바꾸면 결과가 달라지는가.
 
-**영어 답변:**
+**30초 답변 EN:**
+
+> That boundary is ambiguous: sharing praise for ARMY may celebrate the fandom rather than support the cause. So I checked the trend without external praise. The late-period share was still higher, although the number of tweets fell. Independent coding is still needed to check these judgments.
+
+**30초 답변 KO:**
+
+> 그 경계는 모호합니다. 아미에 대한 칭찬을 공유하는 것이 대의 지지보다 팬덤의 자랑일 수도 있습니다. 그래서 외부의 칭찬을 빼고도 확인했습니다. 트윗 수 자체는 줄었지만 후기 비율이 더 높은 방향은 유지됐습니다. 다만 이런 판단을 검증하려면 독립적인 코딩이 여전히 필요합니다.
+
+**상세 답변 EN (추가 질문 시):**
 
 > That is a real boundary problem. Sharing praise for ARMY can celebrate the fandom’s reputation without explicitly supporting Black Lives Matter. In the original broad grouping, External Recognition was on the peace-oriented side, but I do not treat it as equivalent to explicit solidarity.
 >
@@ -119,7 +151,7 @@
 >
 > For the conclusion, I also use that narrower category: 133 of 459 tweets overall. Still, I was the only coder. The sensitivity check addresses one grouping choice; it does not replace independent coding or remove all ambiguity about context and meaning.
 
-**한국어 답변:**
+**상세 답변 KO (추가 질문 시):**
 
 > 실제로 경계가 모호한 지점입니다. 아미에 대한 칭찬을 공유하는 것은 BLM을 명시적으로 지지하지 않으면서 팬덤의 명성을 자랑하는 것일 수도 있습니다. 원래의 넓은 분류에서는 외부 인정을 평화 지향 쪽에 넣었지만, 저는 그것을 명시적 연대와 같은 것으로 취급하지는 않습니다.
 >
@@ -141,7 +173,15 @@
 
 **질문의 초점:** 같은 의제를 계속 다뤄야 한다는 기준이 지나치게 엄격한 것은 아닌가. 조직, 참여자, 의제의 지속성을 혼동하고 있지는 않은가.
 
-**영어 답변:**
+**30초 답변 EN:**
+
+> I agree that changing causes does not mean a movement has ended. Continuing campaigns show organizational continuity. What my data cannot establish is how the 2020 anti-racist campaign connected to later participation. So I am identifying a limit of this study, not denying the organization’s continuity.
+
+**30초 답변 KO:**
+
+> 네, 대의가 바뀌었다고 운동이 끝났다는 뜻은 아닙니다. 캠페인을 이어가는 것은 조직의 지속성을 보여줍니다. 제 자료가 확인하지 못한 것은 2020년 반인종차별 캠페인이 이후의 참여와 어떻게 연결됐는가입니다. 조직의 지속성을 부정하는 것이 아니라, 이번 연구가 보여줄 수 있는 범위를 말하는 것입니다.
+
+**상세 답변 EN (추가 질문 시):**
 
 > I agree that changing issues does not by itself mean a movement has ended. A continuing organization may connect several causes through a broader commitment. I would therefore distinguish continuity of the organization, continuity of participation, and continuity of engagement with a particular issue.
 >
@@ -149,7 +189,7 @@
 >
 > So I am not arguing that changing causes disqualifies the organization as part of a movement. I am saying that this study has not established the longer trajectory of the 2020 anti-racist campaign. Following how the organization and participants connect different causes would be one way to investigate that trajectory.
 
-**한국어 답변:**
+**상세 답변 KO (추가 질문 시):**
 
 > 네, 의제가 바뀐다는 사실만으로 운동이 끝났다고 볼 수는 없다는 데 동의합니다. 지속되는 조직이 더 넓은 지향을 통해 여러 대의를 연결할 수도 있습니다. 그래서 저는 조직의 지속성, 참여의 지속성, 특정 문제에 대한 관여의 지속성을 구분하고 싶습니다.
 >
@@ -171,7 +211,15 @@
 
 **질문의 초점:** 일반적인 유명인 팬덤의 참여를 한류의 고유한 효과로 설명하고 있지는 않은가. 국경을 넘는 연결을 실제로 어떤 자료로 확인했는가.
 
-**영어 답변:**
+**30초 답변 EN:**
+
+> I am not claiming this is uniquely Korean. The case connects a fandom around a Korean artist to an American public issue. That shows one way attachment to Hallyu can enter public action. But English tweets do not establish nationality, so I cannot compare participants across countries.
+
+**30초 답변 KO:**
+
+> 한국에만 고유한 현상이라는 주장은 아닙니다. 한국 아티스트를 중심으로 한 팬덤이 미국의 공적 문제와 연결된 사례입니다. 한류에 대한 애착이 공적 행동으로 이어지는 하나의 경로를 보여줍니다. 다만 영어 트윗만으로 국적을 알 수 없으므로, 나라별 참여자를 비교할 수는 없습니다.
+
+**상세 답변 EN (추가 질문 시):**
 
 > I am not claiming that this mechanism is unique to Korean culture. Fans of other artists may also use celebrity attachment and existing networks to support public causes. Without comparative cases, I cannot establish Korean uniqueness.
 >
@@ -179,7 +227,7 @@
 >
 > I use transnational at the level of that cultural and political connection. English-language tweets do not establish participants’ nationality or location, so I cannot map who participated from which country or compare Korean and overseas fans. The contribution is a case of how such a connection was expressed and organized, rather than proof of Hallyu’s general effects across countries.
 
-**한국어 답변:**
+**상세 답변 KO (추가 질문 시):**
 
 > 저는 이 작동 방식이 한국 문화에만 고유하다고 주장하지는 않습니다. 다른 아티스트의 팬들도 유명인에 대한 애착과 기존 네트워크를 활용해 공적 대의를 지지할 수 있습니다. 비교 사례 없이 한국적 특수성까지 입증할 수는 없습니다.
 >
