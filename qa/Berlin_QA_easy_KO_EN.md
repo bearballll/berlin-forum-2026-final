@@ -1,4 +1,8 @@
-# 베를린 발표 Q&A 한영 쉬운판 (2026-11-11)
+# 베를린 발표 Q&A 한영 통합 정리
+
+발표 대본 v8.46, 기존 발표 슬라이드 순서와 코딩 자료 459건을 기준으로 정리했습니다. 종합 답변 → 받은 질문과 코멘트 → 패널 예상 질문 → 기존 예상 질문 53개의 순서입니다. PPTX는 수정하지 않았습니다.
+
+[종합 답변](#현장-코멘트에-대한-종합-답변) · [받은 질문 바로가기](#받은-질문과-코멘트-바로가기) · [예상 질문 53개 색인](#기존-예상-질문-53개-전체-색인)
 
 ## 현장 코멘트에 대한 종합 답변
 
@@ -12,6 +16,8 @@ I counted solidarity only when a tweet clearly supported the cause, not from a h
 
 I also agree that the specific context matters. Black fans had already raised racism within the fandom. I need to examine what they asked for, how other fans responded, and whether those concerns remained central when fans celebrated the campaign’s success.
 
+I would also examine civic concerns and fandom identity together. Fans may already care about racism, while their connection to BTS gives them a shared way to act. I would ask what they cared about before the campaign and what being an ARMY added to their decision.
+
 So I would describe this as a case of fandom and anti-racist engagement coming together. To understand whether it became a lasting movement, I need interviews and research beyond the campaign itself.
 
 **한국어**
@@ -24,151 +30,213 @@ So I would describe this as a case of fandom and anti-racist engagement coming t
 
 구체적인 맥락이 중요하다는 지적에도 동의합니다. 흑인 팬들은 이미 팬덤 내부에서 인종차별 문제를 제기하고 있었습니다. 그들이 무엇을 요구했고 다른 팬들은 어떻게 반응했는지, 캠페인의 성공을 축하하는 과정에서도 그 문제 제기가 중심에 남아 있었는지를 살펴봐야 합니다.
 
+시민으로서의 관심과 팬덤 정체성도 함께 분석하고 싶습니다. 팬들은 이미 인종차별에 관심이 있었고, BTS와의 연결이 함께 행동하는 통로가 됐을 수 있습니다. 캠페인 이전에 무엇에 관심이 있었고 참여 결정에 아미라는 정체성이 무엇을 더했는지 묻겠습니다.
+
 따라서 저는 이 사례를 팬덤과 반인종차별 참여가 만난 사례로 설명하고 싶습니다. 그것이 지속적인 운동으로 이어졌는지 이해하려면 인터뷰와 캠페인 이후의 연구가 필요합니다.
 
----
+## 받은 질문과 코멘트 바로가기
 
-## 현장 코멘트에 대한 구체적인 한영 답변 6개
+| 쟁점 | 출처 | 관련 기존 질문 |
+|---|---|---|
+| [F1. 케이팝 팬덤은 다른 집단과 무엇이 다른가?](#f1-케이팝-팬덤은-다른-집단과-무엇이-다른가) | 줄리아 질문 메모 | Q32, Q38 |
+| [F2. 트윗으로 개인의 실제 참여 동기를 알 수 있는가?](#f2-트윗으로-개인의-실제-참여-동기를-알-수-있는가) | 줄리아 질문 메모 | Q8, Q23 |
+| [F3. 연대를 어떻게 조작적으로 정의했는가?](#f3-연대를-어떻게-조작적으로-정의했는가) | 줄리아 질문 메모 | Q18, Q19 |
+| [F4. 간단한 온라인 행동인데, 클릭티비즘을 평화운동으로 과장한 것 아닌가?](#f4-간단한-온라인-행동인데-클릭티비즘을-평화운동으로-과장한-것-아닌가) | 줄리아 질문 메모 | Q9, Q10, Q31 |
+| [F5. ‘평화’라는 큰 개념이 케이팝 팬덤 내부 인종차별의 특수성을 가리는 것 아닌가?](#f5-평화라는-큰-개념이-케이팝-팬덤-내부-인종차별의-특수성을-가리는-것-아닌가) | 다른 교수님 코멘트 요약 | Q43 |
+| [F6. 팬덤 문화 자체의 정치성과 권력관계는 어떻게 다룰 것인가?](#f6-팬덤-문화-자체의-정치성과-권력관계는-어떻게-다룰-것인가) | 다른 교수님 코멘트 요약 | Q42, Q49, Q50 |
+| [F7. 시민의식 때문인가, BTS 팬이라는 정체성 때문인가?](#f7-시민의식-때문인가-bts-팬이라는-정체성-때문인가) | 추가 교수님 코멘트 요약 및 일부 영어 전사 | Q1, Q3, Q23 |
+| [F8. 콘텐츠의 의미와 수용자의 맥락을 어떻게 함께 분석할 것인가?](#f8-콘텐츠의-의미와-수용자의-맥락을-어떻게-함께-분석할-것인가) | 추가 교수님 코멘트에 대한 해석 및 후속 연구 질문 | Q12, Q13, Q48, Q49 |
 
-줄리아의 네 질문과 다른 교수님 코멘트의 두 핵심 논점에 대한 답변입니다. 질문은 현장 메모와 화면 요약을 바탕으로 재구성했으며, 정확한 발언 전사는 아닙니다. 실제로 확인한 결과와 앞으로 필요한 분석을 구분했습니다. 각 질문에 영어 또는 한국어 중 한 언어로 답합니다. 더 짧게 답하려면 아래의 ‘줄리아의 현장 질문과 짧은 한영 답변’을 사용합니다.
+질문은 현장 메모·자동 요약·일부 전사를 바탕으로 정리한 쟁점이며 정확한 발언 전사가 아닙니다. F1~F4는 줄리아 질문, F5~F6은 앞선 교수 코멘트, F7~F8은 추가 교수 코멘트입니다. F8의 구체적인 연구 설계는 코멘트를 받아 발전시킨 답변입니다.
 
-### D1. 케이팝 팬덤은 다른 집단과 무엇이 다른가?
+## 받은 질문과 코멘트별 한영 답변
+
+먼저 짧은 답변을 말하고, 추가 설명이 필요하면 구체적인 답변을 이어갑니다.
+
+### F1. 케이팝 팬덤은 다른 집단과 무엇이 다른가?
 
 **질문 EN:** How is K-pop fandom different from other groups?
 
-**답변 EN:**
-
-In this case, fans already shared an attachment to BTS and experience working toward common goals, such as chart success. The donation campaign gave them another shared goal: matching BTS’s donation. What interests me is how these familiar fan practices connected with an anti-racist cause. But I have not compared this with other groups, so I cannot say that this process is unique to K-pop.
-
-**답변 KO:**
-
-이 사례에서 팬들은 이미 BTS에 대한 애착을 공유했고, 음원 순위 같은 공동 목표를 위해 함께 활동한 경험이 있었습니다. 기부 캠페인은 BTS의 기부액을 맞추자는 또 하나의 공동 목표를 제시했습니다. 제가 관심을 갖는 것은 이런 익숙한 팬덤의 실천이 반인종차별 의제와 어떻게 연결됐는가입니다. 다만 다른 집단과 비교하지 않았으므로, 이 과정이 케이팝에만 나타난다고 말할 수는 없습니다.
-
-### D2. 트윗으로 개인의 실제 참여 동기를 알 수 있는가?
-
-**질문 EN:** Can tweets tell us why individual fans participated?
-
-**답변 EN:**
-
-The tweets show the reasons fans publicly expressed, but not all their personal motives. A fan might mention love for BTS, support for Black Lives Matter, or both. I can analyze those expressions, but I cannot tell which reason mattered most to that person. Also, mentioning BTS’s donation does not prove that it caused someone to participate. I would need interviews to understand how fans made that decision.
-
-**답변 KO:**
-
-트윗은 팬들이 공개적으로 표현한 이유를 보여주지만, 개인의 동기 전체를 알려주지는 않습니다. 어떤 팬은 BTS에 대한 애정을, 다른 팬은 블랙 라이브스 매터에 대한 지지를, 또 다른 팬은 둘 다 말할 수 있습니다. 이런 표현은 분석할 수 있지만, 그 사람에게 어느 이유가 가장 중요했는지는 판단할 수 없습니다. BTS의 기부를 언급했다고 해서 그것 때문에 참여했다고 입증되는 것도 아닙니다. 참여 결정을 어떻게 내렸는지 이해하려면 인터뷰가 필요합니다.
-
-### D3. 연대를 어떻게 조작적으로 정의했는가?
-
-**질문 EN:** How did you identify solidarity in the tweets?
-
-**답변 EN:**
-
-I coded solidarity when the wording clearly supported a cause such as Black Lives Matter. A hashtag alone did not count. Saying that ARMY had reached the fundraising goal showed shared achievement, but did not by itself show solidarity with the cause. A tweet could receive both codes if it expressed both meanings. This identifies public expressions of support; it does not measure how deeply someone cared or how long their support lasted.
-
-**답변 KO:**
-
-트윗의 문구가 블랙 라이브스 매터 같은 대의를 분명히 지지할 때 연대 표명 코드를 붙였습니다. 해시태그만으로는 세지 않았습니다. 아미가 모금 목표를 달성했다고 말하는 것은 공동 성취를 보여주지만, 그것만으로 대의에 대한 연대를 나타내는 것은 아닙니다. 두 의미를 모두 표현했다면 두 코드를 함께 붙일 수 있습니다. 이것은 공개적으로 표현된 지지를 식별하는 기준이지, 공감의 깊이나 지지의 지속 기간을 측정하는 기준은 아닙니다.
-
-### D4. 간단한 온라인 행동인데, 클릭티비즘을 평화운동으로 과장한 것 아닌가?
-
-**질문 EN:** Is this just clicktivism? Why discuss it as a peace movement?
-
-**답변 EN:**
-
-I would separate an online post, a donation, and a lasting movement. The campaign raised real money, so it had an outcome beyond online attention. But that does not mean every tweet led to a donation, or that donating created lasting involvement. My evidence supports a narrower claim: some tweets expressed anti-racist solidarity alongside fandom pride. To establish a lasting movement, I would need to examine continued organizing and action after the campaign.
-
-**답변 KO:**
-
-온라인 게시물, 기부, 지속적인 운동을 구분해야 한다고 생각합니다. 캠페인이 실제 기부금을 모았으므로 온라인의 관심을 넘어선 결과는 있었습니다. 하지만 모든 트윗이 기부로 이어졌다거나, 기부가 지속적인 참여를 만들었다는 뜻은 아닙니다. 제 자료가 뒷받침하는 주장은 더 제한적입니다. 일부 트윗에서 반인종차별 연대가 팬덤의 자부심과 함께 표현됐다는 것입니다. 지속적인 운동인지 판단하려면 캠페인 이후에도 조직 활동과 행동이 이어졌는지 살펴봐야 합니다.
-
-### D5. ‘평화’라는 큰 개념이 케이팝 팬덤 내부 인종차별의 특수성을 가리는 것 아닌가?
-
-**질문 EN:** Does the peace framework overlook the specific context of racism within K-pop fandom?
-
-**답변 EN:**
-
-Yes, that is a risk. Calling something peace-oriented is not enough to explain whose concerns were heard or what kind of racism was being challenged. Black ARMYs had already raised racism within the fandom. I need to examine more closely what they asked for and how other fans responded. My current analysis identifies expressions of support, but does not fully examine those relationships. Positive peace gives me a broad framework; it cannot replace that specific analysis.
-
-**답변 KO:**
-
-네, 그런 위험이 있습니다. 어떤 행동을 평화 지향적이라고 부르는 것만으로는 누구의 문제 제기가 받아들여졌고, 어떤 인종차별에 맞섰는지 설명할 수 없습니다. 흑인 아미는 이미 팬덤 내부에서 인종차별 문제를 제기하고 있었습니다. 그들이 무엇을 요구했고 다른 팬들이 어떻게 반응했는지 더 구체적으로 살펴봐야 합니다. 현재 분석은 지지 표현을 식별하지만, 그런 관계를 충분히 분석하지는 못했습니다. 적극적 평화는 넓은 분석 틀을 제공하지만, 이 구체적인 분석을 대신할 수는 없습니다.
-
-### D6. 팬덤 문화 자체의 정치성과 권력관계는 어떻게 다룰 것인가?
-
-**질문 EN:** How will you address politics and power within fandom culture?
-
-**답변 EN:**
-
-I should not assume that fandom becomes political only when fans join a public campaign. Politics can also appear in whose voices receive attention and who gets to represent the fandom. For this case, I would ask whether Black fans’ concerns remained central when the campaign celebrated ARMY’s achievement. I have not established that they were pushed aside. That is a question for closer analysis, rather than a conclusion from my current data.
-
-**답변 KO:**
-
-팬들이 공적 캠페인에 참여할 때에만 팬덤이 정치적이 된다고 가정해서는 안 됩니다. 누구의 목소리가 주목받고 누가 팬덤을 대표할 수 있는지에도 정치성이 나타날 수 있습니다. 이 사례에서는 캠페인이 아미의 성취를 축하하는 과정에서도 흑인 팬들의 문제 제기가 중심에 남아 있었는지 묻고 싶습니다. 다만 그들의 목소리가 밀려났다고 입증한 것은 아닙니다. 이것은 현재 자료에서 내린 결론이 아니라, 더 자세한 분석으로 확인해야 할 질문입니다.
-
----
-
-## 줄리아의 현장 질문과 짧은 한영 답변
-
-Julia Trzcińska의 1차 질문 메모를 네 가지 쟁점으로 나눴습니다. 아래 질문은 메모를 바탕으로 재구성했으며 정확한 발언 전사는 아닙니다. 각 답변은 영어 또는 한국어 중 한 언어로 말합니다.
-
-### J1. 케이팝 팬덤은 무엇이 다른가
-
-**질문 EN:** How is K-pop fandom different?
-
-**질문 KO:** 케이팝 팬덤은 무엇이 다른가?
-
-**답변 EN:**
+**짧은 답변 EN:**
 
 I focus on fans’ love for BTS, their shared identity, and their shared goals. These can help us understand this campaign. But I do not claim they are unique to K-pop. That would need comparison with other groups.
 
-**답변 KO:**
+**짧은 답변 KO:**
 
 BTS에 대한 팬들의 애정, 공유된 정체성, 공동 목표에 주목했습니다. 이것들은 이 캠페인을 이해하는 데 도움이 됩니다. 하지만 케이팝만의 특징이라고 주장하지는 않습니다. 그러려면 다른 집단과 비교해야 합니다.
 
-### J2. 트윗으로 개인의 동기를 알 수 있는가
+**구체적인 답변 EN:**
 
-**질문 EN:** Can tweets tell us why individual fans took part?
+In this case, fans already shared an attachment to BTS and experience working toward common goals, such as chart success. The donation campaign gave them another shared goal: matching BTS’s donation. What interests me is how these familiar fan practices connected with an anti-racist cause. But I have not compared this with other groups, so I cannot say that this process is unique to K-pop.
 
-**질문 KO:** 트윗으로 개인의 동기를 알 수 있는가?
+**구체적인 답변 KO:**
 
-**답변 EN:**
+이 사례에서 팬들은 이미 BTS에 대한 애착을 공유했고, 음원 순위 같은 공동 목표를 위해 함께 활동한 경험이 있었습니다. 기부 캠페인은 BTS의 기부액을 맞추자는 또 하나의 공동 목표를 제시했습니다. 제가 관심을 갖는 것은 이런 익숙한 팬덤의 실천이 반인종차별 의제와 어떻게 연결됐는가입니다. 다만 다른 집단과 비교하지 않았으므로, 이 과정이 케이팝에만 나타난다고 말할 수는 없습니다.
+
+### F2. 트윗으로 개인의 실제 참여 동기를 알 수 있는가?
+
+**질문 EN:** Can tweets tell us why individual fans participated?
+
+**짧은 답변 EN:**
 
 The tweets show what fans said about their actions, but not their deeper motives. I cannot tell whether they joined mainly for BTS or for the cause. Interviews would help me understand that better.
 
-**답변 KO:**
+**짧은 답변 KO:**
 
 트윗은 팬들이 자신의 행동에 대해 한 말은 보여주지만, 깊은 동기까지 알려주지는 않습니다. 주로 BTS 때문인지, 대의 때문인지 구분할 수는 없습니다. 이를 더 잘 이해하려면 인터뷰가 도움이 됩니다.
 
-### J3. 연대를 어떻게 조작적으로 정의했는가
+**구체적인 답변 EN:**
 
-**질문 EN:** How did you measure solidarity?
+The tweets show the reasons fans publicly expressed, but not all their personal motives. A fan might mention love for BTS, support for Black Lives Matter, or both. I can analyze those expressions, but I cannot tell which reason mattered most to that person. Also, mentioning BTS’s donation does not prove that it caused someone to participate. I would need interviews to understand how fans made that decision.
 
-**질문 KO:** 연대를 어떻게 조작적으로 정의했는가?
+**구체적인 답변 KO:**
 
-**답변 EN:**
+트윗은 팬들이 공개적으로 표현한 이유를 보여주지만, 개인의 동기 전체를 알려주지는 않습니다. 어떤 팬은 BTS에 대한 애정을, 다른 팬은 블랙 라이브스 매터에 대한 지지를, 또 다른 팬은 둘 다 말할 수 있습니다. 이런 표현은 분석할 수 있지만, 그 사람에게 어느 이유가 가장 중요했는지는 판단할 수 없습니다. BTS의 기부를 언급했다고 해서 그것 때문에 참여했다고 입증되는 것도 아닙니다. 참여 결정을 어떻게 내렸는지 이해하려면 인터뷰가 필요합니다.
+
+### F3. 연대를 어떻게 조작적으로 정의했는가?
+
+**질문 EN:** How did you identify solidarity in the tweets?
+
+**짧은 답변 EN:**
 
 I counted a tweet as expressing solidarity when it clearly supported a cause such as Black Lives Matter. A hashtag alone did not count. This measures expressed support, not how deeply someone cared or how long they stayed involved.
 
-**답변 KO:**
+**짧은 답변 KO:**
 
 블랙 라이브스 매터 같은 대의를 분명히 지지한 트윗에 연대 표명 코드를 붙였습니다. 해시태그만으로는 세지 않았습니다. 이것은 표현된 지지를 측정하는 것이지, 얼마나 깊이 공감했거나 얼마나 오래 참여했는지를 측정하는 것은 아닙니다.
 
-### J4. 클릭티비즘인가 평화운동인가
+**구체적인 답변 EN:**
 
-**질문 EN:** Is this just clicktivism, rather than a peace movement?
+I coded solidarity when the wording clearly supported a cause such as Black Lives Matter. A hashtag alone did not count. Saying that ARMY had reached the fundraising goal showed shared achievement, but did not by itself show solidarity with the cause. A tweet could receive both codes if it expressed both meanings. This identifies public expressions of support; it does not measure how deeply someone cared or how long their support lasted.
 
-**질문 KO:** 클릭티비즘인가 평화운동인가?
+**구체적인 답변 KO:**
 
-**답변 EN:**
+트윗의 문구가 블랙 라이브스 매터 같은 대의를 분명히 지지할 때 연대 표명 코드를 붙였습니다. 해시태그만으로는 세지 않았습니다. 아미가 모금 목표를 달성했다고 말하는 것은 공동 성취를 보여주지만, 그것만으로 대의에 대한 연대를 나타내는 것은 아닙니다. 두 의미를 모두 표현했다면 두 코드를 함께 붙일 수 있습니다. 이것은 공개적으로 표현된 지지를 식별하는 기준이지, 공감의 깊이나 지지의 지속 기간을 측정하는 기준은 아닙니다.
+
+### F4. 간단한 온라인 행동인데, 클릭티비즘을 평화운동으로 과장한 것 아닌가?
+
+**질문 EN:** Is this just clicktivism? Why discuss it as a peace movement?
+
+**짧은 답변 EN:**
 
 The campaign raised real money, so it had a result beyond clicks. But a donation alone does not make it a peace movement. I found some peace-oriented language. To call it a lasting movement, we need evidence that people kept organizing and taking action.
 
-**답변 KO:**
+**짧은 답변 KO:**
 
 캠페인이 실제 기부금을 모았으므로 클릭을 넘어선 결과는 있었습니다. 하지만 기부만으로 평화운동이 되는 것은 아닙니다. 제가 확인한 것은 일부 평화 지향적 표현입니다. 지속적인 운동이라고 하려면 사람들이 계속 조직하고 행동했다는 근거가 필요합니다.
 
----
+**구체적인 답변 EN:**
 
-## 현장 패널 예상 질문 6개
+I would separate an online post, a donation, and a lasting movement. The campaign raised real money, so it had an outcome beyond online attention. But that does not mean every tweet led to a donation, or that donating created lasting involvement. My evidence supports a narrower claim: some tweets expressed anti-racist solidarity alongside fandom pride. To establish a lasting movement, I would need to examine continued organizing and action after the campaign.
+
+**구체적인 답변 KO:**
+
+온라인 게시물, 기부, 지속적인 운동을 구분해야 한다고 생각합니다. 캠페인이 실제 기부금을 모았으므로 온라인의 관심을 넘어선 결과는 있었습니다. 하지만 모든 트윗이 기부로 이어졌다거나, 기부가 지속적인 참여를 만들었다는 뜻은 아닙니다. 제 자료가 뒷받침하는 주장은 더 제한적입니다. 일부 트윗에서 반인종차별 연대가 팬덤의 자부심과 함께 표현됐다는 것입니다. 지속적인 운동인지 판단하려면 캠페인 이후에도 조직 활동과 행동이 이어졌는지 살펴봐야 합니다.
+
+### F5. ‘평화’라는 큰 개념이 케이팝 팬덤 내부 인종차별의 특수성을 가리는 것 아닌가?
+
+**질문 EN:** Does the peace framework overlook the specific context of racism within K-pop fandom?
+
+**짧은 답변 EN:**
+
+I agree that the specific context matters. I need to examine what Black fans asked for and how other fans responded. Positive peace is a broad framework, but it cannot replace a closer analysis of racism within the fandom.
+
+**짧은 답변 KO:**
+
+구체적인 맥락이 중요하다는 데 동의합니다. 흑인 팬들이 무엇을 요구했고 다른 팬들이 어떻게 반응했는지 살펴봐야 합니다. 적극적 평화는 넓은 분석 틀이지만, 팬덤 내부 인종차별에 대한 구체적인 분석을 대신할 수는 없습니다.
+
+**구체적인 답변 EN:**
+
+Yes, that is a risk. Calling something peace-oriented is not enough to explain whose concerns were heard or what kind of racism was being challenged. Black ARMYs had already raised racism within the fandom. I need to examine more closely what they asked for and how other fans responded. My current analysis identifies expressions of support, but does not fully examine those relationships. Positive peace gives me a broad framework; it cannot replace that specific analysis.
+
+**구체적인 답변 KO:**
+
+네, 그런 위험이 있습니다. 어떤 행동을 평화 지향적이라고 부르는 것만으로는 누구의 문제 제기가 받아들여졌고, 어떤 인종차별에 맞섰는지 설명할 수 없습니다. 흑인 아미는 이미 팬덤 내부에서 인종차별 문제를 제기하고 있었습니다. 그들이 무엇을 요구했고 다른 팬들이 어떻게 반응했는지 더 구체적으로 살펴봐야 합니다. 현재 분석은 지지 표현을 식별하지만, 그런 관계를 충분히 분석하지는 못했습니다. 적극적 평화는 넓은 분석 틀을 제공하지만, 이 구체적인 분석을 대신할 수는 없습니다.
+
+### F6. 팬덤 문화 자체의 정치성과 권력관계는 어떻게 다룰 것인가?
+
+**질문 EN:** How will you address politics and power within fandom culture?
+
+**짧은 답변 EN:**
+
+Politics also appears in whose voices are heard and who represents the fandom. I would ask whether Black fans’ concerns stayed central when fans celebrated the campaign. My current data do not establish that their concerns were pushed aside.
+
+**짧은 답변 KO:**
+
+누구의 목소리가 받아들여지고 누가 팬덤을 대표하는지에도 정치성이 나타납니다. 캠페인을 축하하는 과정에서도 흑인 팬들의 문제 제기가 중심에 남아 있었는지 묻고 싶습니다. 현재 자료로 그 문제가 밀려났다고 입증한 것은 아닙니다.
+
+**구체적인 답변 EN:**
+
+I should not assume that fandom becomes political only when fans join a public campaign. Politics can also appear in whose voices receive attention and who gets to represent the fandom. For this case, I would ask whether Black fans’ concerns remained central when the campaign celebrated ARMY’s achievement. I have not established that they were pushed aside. That is a question for closer analysis, rather than a conclusion from my current data.
+
+**구체적인 답변 KO:**
+
+팬들이 공적 캠페인에 참여할 때에만 팬덤이 정치적이 된다고 가정해서는 안 됩니다. 누구의 목소리가 주목받고 누가 팬덤을 대표할 수 있는지에도 정치성이 나타날 수 있습니다. 이 사례에서는 캠페인이 아미의 성취를 축하하는 과정에서도 흑인 팬들의 문제 제기가 중심에 남아 있었는지 묻고 싶습니다. 다만 그들의 목소리가 밀려났다고 입증한 것은 아닙니다. 이것은 현재 자료에서 내린 결론이 아니라, 더 자세한 분석으로 확인해야 할 질문입니다.
+
+### F7. 시민의식 때문인가, BTS 팬이라는 정체성 때문인가?
+
+**질문 EN:** Did fans act from civic concerns or from their identity as BTS fans?
+
+**짧은 답변 EN:**
+
+Both may matter. Some fans said they had donated before BTS did, while others mentioned BTS’s donation alongside support for Black Lives Matter. I would ask what fans already cared about and what being an ARMY added to their decision.
+
+**짧은 답변 KO:**
+
+둘 다 중요할 수 있습니다. 일부 팬은 BTS보다 먼저 기부했다고 말했고, 다른 팬은 BTS의 기부와 블랙 라이브스 매터에 대한 지지를 함께 언급했습니다. 팬들이 원래 무엇에 관심이 있었고 참여 결정에 아미라는 정체성이 무엇을 더했는지 묻고 싶습니다.
+
+**구체적인 답변 EN:**
+
+Thank you. I think these two perspectives can work together. Fans may already care about racism, while their connection to BTS gives them a shared way to act on that concern.
+
+In my data, some fans said they had donated before BTS did. So the artist was not the only starting point. Other tweets mentioned BTS’s donation alongside support for Black Lives Matter.
+
+My tweets cannot tell me how these connections developed. In interviews, I would ask what fans cared about before the campaign, how they decided to join, and what being an ARMY added to that decision. This would help me understand how civic concerns and fandom identity worked together.
+
+**구체적인 답변 KO:**
+
+감사합니다. 저는 두 관점을 함께 사용할 수 있다고 생각합니다. 팬들이 이미 인종차별 문제에 관심을 갖고 있었고, BTS와의 연결이 그 관심을 함께 행동으로 옮기는 통로가 됐을 수 있습니다.
+
+제 자료에서도 일부 팬은 BTS보다 먼저 기부했다고 말했습니다. 따라서 아티스트만이 참여의 출발점은 아니었습니다. 다른 트윗에서는 BTS의 기부에 대한 언급과 블랙 라이브스 매터에 대한 지지가 함께 나타났습니다.
+
+다만 트윗만으로 이런 연결이 어떻게 형성됐는지는 알 수 없습니다. 인터뷰에서는 캠페인 이전에 어떤 문제에 관심이 있었는지, 어떻게 참여를 결정했는지, 그 결정에 아미라는 정체성이 무엇을 더했는지 묻고 싶습니다. 이를 통해 시민으로서의 관심과 팬덤 정체성이 어떻게 함께 작동했는지 이해할 수 있을 것입니다.
+
+### F8. 콘텐츠의 의미와 수용자의 맥락을 어떻게 함께 분석할 것인가?
+
+**질문 EN:** How can you combine analysis of cultural content with the context of its reception?
+
+**짧은 답변 EN:**
+
+I would examine both what fans take from BTS and how they connect it to the problems they face. My data mainly show campaign discourse. Interviews and closer reading could help me connect the artist’s messages, fans’ interpretations, and their social context.
+
+**짧은 답변 KO:**
+
+팬들이 BTS에게서 무엇을 받아들이고, 그것을 자신들이 마주하는 문제와 어떻게 연결하는지 함께 살펴보겠습니다. 현재 자료는 주로 캠페인 담론을 보여줍니다. 인터뷰와 더 세밀한 읽기로 아티스트의 메시지, 팬들의 해석, 사회적 맥락을 연결할 수 있을 것입니다.
+
+**구체적인 답변 EN:**
+
+I would combine two levels of analysis. First, what messages or public actions from BTS do fans refer to? Second, how do fans connect those references to their own concerns and social context?
+
+In this campaign, BTS’s donation was one visible reference point. But that does not tell me whether fans took their anti-racist position from BTS, from earlier experiences, or from discussion with other fans. I would need closer reading and interviews to trace those connections.
+
+I would also examine who gets heard within the fandom. This would connect cultural meaning, the context of reception, and questions of power, rather than assume that the same content has the same effect on everyone.
+
+**구체적인 답변 KO:**
+
+두 수준의 분석을 결합하고 싶습니다. 첫째, 팬들이 BTS의 어떤 메시지나 공적 행동을 언급하는가입니다. 둘째, 팬들이 그것을 자신의 관심과 사회적 맥락에 어떻게 연결하는가입니다.
+
+이 캠페인에서는 BTS의 기부가 눈에 보이는 하나의 준거였습니다. 하지만 팬들의 반인종차별 입장이 BTS에게서 왔는지, 이전 경험에서 왔는지, 다른 팬들과의 논의에서 왔는지는 그것만으로 알 수 없습니다. 그 연결을 추적하려면 더 세밀한 읽기와 인터뷰가 필요합니다.
+
+또 팬덤 안에서 누구의 목소리가 받아들여지는지도 살펴보겠습니다. 이를 통해 같은 콘텐츠가 모두에게 같은 효과를 낸다고 가정하기보다, 문화적 의미와 수용 맥락, 권력관계를 연결해 분석하고 싶습니다.
+
+## 추가 코멘트의 해석 범위
+
+- 추가 코멘트에서 확인되는 핵심은 시민의식과 팬덤 정체성, 콘텐츠와 수용 맥락을 함께 보라는 제안입니다. 두 분석을 결합하라는 취지는 화면의 일부 영어 전사에서도 확인됩니다.
+- 자동 요약에 나온 ‘전 세계에서 동일하게 작동한다’, ‘마르크스주의적 접근’은 정확한 원문이 충분히 보이지 않습니다. 특정 이론을 채택하라는 확정 발언으로 기록하지 않았습니다. 권력관계 분석과 수용 맥락 분석을 결합하는 후속 질문은 F6~F8에 반영했습니다.
+- 앞선 요약에 나온 베를린·파리 수용 비교는 다른 발표에 관한 코멘트일 수 있으므로, 이번 트윗 연구에 직접 요구된 비교 설계로 단정하지 않습니다.
+- 교수님이 실제로 누구인지 확인되지 않은 코멘트에는 이름을 붙이지 않습니다. 자료에 나타난 연관성을 개인 동기나 인과관계의 증거로 바꾸지 않습니다.
+
+## 미리 준비한 패널 예상 질문 6개
 
 다른 발표의 논평에서 반복된 개념, 중간 행위자, 인과관계, 분석 기준, 지속성, 비교의 질문을 이번 발표에 적용한 우선 답변입니다. 발표 대본 v8.44와 같은 범위에서 답합니다. 먼저 각 질문의 **30초 답변**을 말하고, 추가 설명을 요청받으면 **상세 답변**을 이어갑니다. 시간이 더 짧으면 **핵심 한 줄**만 말합니다. 30초는 영어 또는 한국어 중 한 언어만 말할 때의 목표 시간이며, 두 언어를 연이어 읽는 시간이 아닙니다. 영어는 기존 리허설 속도 기준 약 28~30초 분량이고, 실제 낭독 시간은 아직 측정하지 않았습니다.
 
@@ -217,7 +285,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 
 **핵심 한 줄 KO:** “기부는 행동의 형태이고, 평화의 관점은 그 행동이 인종차별과 인권에 어떻게 명시적으로 연결됐는지를 봅니다.”
 
-[여섯 질문 바로가기로 돌아가기](#현장-패널-예상-질문-6개)
+[여섯 질문 바로가기로 돌아가기](#미리-준비한-패널-예상-질문-6개)
 
 ### P2. 팬 조직은 무엇을 했나
 
@@ -255,7 +323,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 
 **핵심 한 줄 KO:** “BTS가 공개적인 본보기를 제공했다면, 팬 조직은 그것을 함께 참여할 캠페인의 목표로 만들었습니다.”
 
-[여섯 질문 바로가기로 돌아가기](#현장-패널-예상-질문-6개)
+[여섯 질문 바로가기로 돌아가기](#미리-준비한-패널-예상-질문-6개)
 
 ### P3. 원래 BLM에 관심 있던 팬들 아닌가
 
@@ -293,7 +361,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 
 **핵심 한 줄 KO:** “아티스트는 기존의 관심을 새로 만들었다기보다, 그것을 표현하는 준거를 제공했을 수 있습니다.”
 
-[여섯 질문 바로가기로 돌아가기](#현장-패널-예상-질문-6개)
+[여섯 질문 바로가기로 돌아가기](#미리-준비한-패널-예상-질문-6개)
 
 ### P4. 연대와 팬덤의 자기 자랑은 구분되나
 
@@ -331,7 +399,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 
 **핵심 한 줄 KO:** “외부의 칭찬을 빼도 후기 비율은 더 높지만, 코딩 신뢰도는 독립적인 검증이 더 필요합니다.”
 
-[여섯 질문 바로가기로 돌아가기](#현장-패널-예상-질문-6개)
+[여섯 질문 바로가기로 돌아가기](#미리-준비한-패널-예상-질문-6개)
 
 ### P5. 조직이 지속되면 운동 아닌가
 
@@ -369,7 +437,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 
 **핵심 한 줄 KO:** “대의의 변화가 지속성을 부정하는 것은 아닙니다. 제 자료가 이 캠페인의 장기적 궤적을 입증하지 못했을 뿐입니다.”
 
-[여섯 질문 바로가기로 돌아가기](#현장-패널-예상-질문-6개)
+[여섯 질문 바로가기로 돌아가기](#미리-준비한-패널-예상-질문-6개)
 
 ### P6. 한류나 초국적 팬덤에 특수한가
 
@@ -407,86 +475,108 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 
 **핵심 한 줄 KO:** “한류를 통한 구체적인 국경 간 연결을 보여주는 사례이지, 그 작동 방식이 한국에만 고유하다는 증거는 아닙니다.”
 
-[여섯 질문 바로가기로 돌아가기](#현장-패널-예상-질문-6개)
+[여섯 질문 바로가기로 돌아가기](#미리-준비한-패널-예상-질문-6개)
 
----
+## 기존 예상 질문 53개 전체 색인
 
-기준: 발표 대본 v8.44, 발표용 PDF `Seoyoung_Kim_Berlin_Forum_2026.pdf`(26쪽), 코딩 데이터 459건.
-자세한 근거와 출처는 `베를린 발표 Q&A 준비 v9.md`에 있음. 이 문서는 질문마다 아래 순서로 씀.
+아래 질문들은 사전 준비한 예상 질문입니다. 현장에서 받은 질문으로 확정한 목록이 아닙니다.
 
-- **질문**: 영어로 어떻게 나올지, 한국어로 무슨 뜻인지
-- **무슨 질문인가**: 질문 뒤에 숨은 걱정이나 의도
-- **영어 답**: 그대로 말할 문장 (30~45초)
-- **한국어 답**: 영어 답의 뜻 (외우기용)
-- **핵심 한 줄**: 긴장해서 다 잊어도 이것만 말하기
 
-답하는 순서는 늘 같음: **답 한 문장 → 근거 하나 → 자료가 못 보여주는 것 하나 → 멈춤.**
+**0. 먼저 알아둘 숫자 다섯 개**
 
----
 
-## 목차
+**1. 홍석경 교수님께 먼저 받을 질문**
 
-**부록 쪽 번호 (발표용 PDF):** 본문 1~14쪽 | 15 References | 16 Sources | 17 Appendix 표지 | **18 A1 코드북** | **19 A2 통계** | 20 A3 분류와 시기별 비율 | 21 A4 후속 사례 비교 | 22 A5 근거 범위 | 23 A6 자료 범위와 오해 | 24 A7 해석 질문 | 25 A8 다음 연구 | **26 A9 선행연구 차별점**
+- [Q1. 애정이 연대로 이어지지 않았다는 건가요?](#q1-애정이-연대로-이어지지-않았다는-건가요)
+- [Q2. 국내 팬과 해외 팬은 다르게 받아들였나요?](#q2-국내-팬과-해외-팬은-다르게-받아들였나요)
+- [Q3. BTS를 따라 한 거라면 팬의 주체성은 어디 있나요?](#q3-bts를-따라-한-거라면-팬의-주체성은-어디-있나요)
 
-**절:** [[#0. 먼저 알아둘 숫자 다섯 개|0. 먼저 알아둘 숫자 다섯 개]] | [[#1. 홍석경 교수님께 먼저 받을 질문|1. 홍석경 교수님께 먼저 받을]] | [[#2. 결론과 바뀐 해석|2. 결론과 바뀐 해석]] | [[#3. 이론|3. 이론]] | [[#4. 자료와 코딩|4. 자료와 코딩]] | [[#5. 네트워크 그림|5. 네트워크 그림]] | [[#6. 통계|6. 통계]] | [[#7. 논문에만 있는 내용|7. 논문에만 있는 내용]] | [[#8. 아미, 원인언아미, 팬덤 기부|8. 아미, 원인언아미, 팬덤 ]] | [[#9. 왜 BTS인가, 선행연구|9. 왜 BTS인가, 선행연구]] | [[#10. 아미 청중, 케이팝 질문|10. 아미 청중, 케이팝 질문]] | [[#11. 포럼, 한류|11. 포럼, 한류]] | [[#12. 짧은 문장 모음 (한영)|12. 짧은 문장 모음 (한영)]]
+**2. 결론과 바뀐 해석**
 
-| 질문 | 띄울 쪽 |
-|---|---|
-| [[#Q1. 애정이 연대로 이어지지 않았다는 건가요?\|Q1. 애정이 연대로 이어지지 않았다는 건가요?]] | 7쪽, A2 통계 19쪽 |
-| [[#Q2. 국내 팬과 해외 팬은 다르게 받아들였나요?\|Q2. 국내 팬과 해외 팬은 다르게 받아들였나요?]] | 10쪽 |
-| [[#Q3. BTS를 따라 한 거라면 팬의 주체성은 어디 있나요?\|Q3. BTS를 따라 한 거라면 팬의 주체성은 어디 있나요?]] | 8쪽, 2쪽 |
-| [[#Q4. 결론을 한 문장으로 하면?\|Q4. 결론을 한 문장으로 하면?]] | 14쪽 |
-| [[#Q4-1. 평화운동이 아니라면, 이 발표의 의미는 무엇인가요?\|Q4-1. 평화운동이 아니라면, 이 발표의 의미는 무엇인가요?]] | 14쪽, 12쪽, A8 다음 연구 25쪽 |
-| [[#Q5. 논문과 무엇이 달라졌나요?\|Q5. 논문과 무엇이 달라졌나요?]] | 7쪽, 9쪽, A9 선행연구 26쪽 |
-| [[#Q6. 왜 해석을 바꿨나요? 논문이 틀린 건가요?\|Q6. 왜 해석을 바꿨나요? 논문이 틀린 건가요?]] | A2 통계 19쪽 |
-| [[#Q7. 시간이 지나며 더 정치적이 된 건가요, 아닌가요?\|Q7. 시간이 지나며 더 정치적이 된 건가요, 아닌가요?]] | 9쪽, A3 시기별 비율 20쪽, A2 통계 19쪽 |
-| [[#Q8. 그냥 보여주기, 이미지 관리 아닌가요?\|Q8. 그냥 보여주기, 이미지 관리 아닌가요?]] | A1 코드북 18쪽 |
-| [[#Q9. 기부를 "평화운동"이라 부르는 건 과하지 않나요?\|Q9. 기부를 "평화운동"이라 부르는 건 과하지 않나요?]] | 3쪽, A7 해석 질문 24쪽 |
-| [[#Q10. 얼마나 지속돼야 "운동"인가요?\|Q10. 얼마나 지속돼야 "운동"인가요?]] | 12쪽, A8 다음 연구 25쪽 |
-| [[#Q11. "내부 결속"은 이론적으로 어디서 나온 건가요?\|Q11. "내부 결속"은 이론적으로 어디서 나온 건가요?]] | 3쪽 |
-| [[#Q12. 연결 행동 이론을 검증한 건가요? 코드에도 있나요?\|Q12. 연결 행동 이론을 검증한 건가요? 코드에도 있나요?]] | 3쪽 |
-| [[#Q13. 세 이론을 어떻게 엮었나요?\|Q13. 세 이론을 어떻게 엮었나요?]] | 3쪽, 5쪽 |
-| [[#Q14. 트윗은 어떻게 모았고, 대표성이 있나요?\|Q14. 트윗은 어떻게 모았고, 대표성이 있나요?]] | 4쪽, A6 자료 범위 23쪽 |
-| [[#Q15. 왜 영어만 봤나요?\|Q15. 왜 영어만 봤나요?]] | 4쪽, 10쪽 |
-| [[#Q16. 코딩은 어떻게 했나요? 키워드만 썼나요?\|Q16. 코딩은 어떻게 했나요? 키워드만 썼나요?]] | 4쪽, A1 코드북 18쪽 |
-| [[#Q17. 두 번째 코더가 없으면 신뢰할 수 있나요?\|Q17. 두 번째 코더가 없으면 신뢰할 수 있나요?]] | 10쪽, A2 통계 19쪽 |
-| [[#Q18. 해시태그는 연대가 아니잖아요?\|Q18. 해시태그는 연대가 아니잖아요?]] | 8쪽, A1 코드북 18쪽 |
-| [[#Q19. 목표 달성은 BLM 기부가 목표였는데 왜 팬덤 쪽인가요?\|Q19. 목표 달성은 BLM 기부가 목표였는데 왜 팬덤 쪽인가요?]] | 5쪽, A3 분류 선택 20쪽, A1 코드북 18쪽 |
-| [[#Q20. 초록에는 460건인데 왜 459건인가요?\|Q20. 초록에는 460건인데 왜 459건인가요?]] | 4쪽, A2 통계 19쪽 |
-| [[#Q21. 네트워크 그림은 정확히 무엇을 보여주나요?\|Q21. 네트워크 그림은 정확히 무엇을 보여주나요?]] | 7쪽 |
-| [[#Q22. 어떻게, 어떤 도구로 만들었나요?\|Q22. 어떻게, 어떤 도구로 만들었나요?]] | 7쪽 |
-| [[#Q23. BTS 기부와 연대가 같이 가는 건 당연한 것 아닌가요?\|Q23. BTS 기부와 연대가 같이 가는 건 당연한 것 아닌가요?]] | 7쪽, A2 통계 19쪽 |
-| [[#Q24. "우연보다 많다, 적다"는 게 무슨 뜻인가요?\|Q24. "우연보다 많다, 적다"는 게 무슨 뜻인가요?]] | 7쪽, A2 통계 19쪽 |
-| [[#Q25. 트윗은 서로 독립이 아닌데 p값이 의미가 있나요?\|Q25. 트윗은 서로 독립이 아닌데 p값이 의미가 있나요?]] | A2 통계 19쪽 |
-| [[#Q26. 승산비 0.63이면 애정이 연대를 막는다는 건가요?\|Q26. 승산비 0.63이면 애정이 연대를 막는다는 건가요?]] | A2 통계 19쪽 |
-| [[#Q27. 왜 모든 코드를 넣은 회귀분석을 안 했나요?\|Q27. 왜 모든 코드를 넣은 회귀분석을 안 했나요?]] | A2 통계 19쪽 |
-| [[#Q28. 논문은 팬덤을 공공외교 주체라고 했는데, 지금도 그렇게 보나요?\|Q28. 논문은 팬덤을 공공외교 주체라고 했는데, 지금도 그렇게 보나요?]] | 13쪽, A5 근거 범위 22쪽 |
-| [[#Q29. 2020년 6월 아미의 다른 행동(털사 유세 등)은요?\|Q29. 2020년 6월 아미의 다른 행동(털사 유세 등)은요?]] | 2쪽 |
-| [[#Q30. 원인언아미는 그 전후로 무엇을 했나요? 지금도 활동하나요?\|Q30. 원인언아미는 그 전후로 무엇을 했나요? 지금도 활동하나요?]] | 2쪽, 16쪽 Sources |
-| [[#Q31. 2020년 이후에도 팬들이 인종차별 문제에 계속 참여했나요?\|Q31. 2020년 이후에도 팬들이 인종차별 문제에 계속 참여했나요?]] | 12쪽, A8 다음 연구 25쪽 |
-| [[#Q32. 케이팝 팬들은 원래 기부를 해왔는데, 뭐가 새롭나요?\|Q32. 케이팝 팬들은 원래 기부를 해왔는데, 뭐가 새롭나요?]] | 2쪽, 11쪽 |
-| [[#Q33. 재난 구호도 평화인가요?\|Q33. 재난 구호도 평화인가요?]] | 11쪽, A7 해석 질문 24쪽 |
-| [[#Q34. 하나은행 캠페인은 뭔가요?\|Q34. 하나은행 캠페인은 뭔가요?]] | 11쪽, A4 후속 사례 비교 21쪽, 16쪽 Sources |
-| [[#Q35. 해외 팬이 권리 문제로 뭉친 다른 사례도 있나요?\|Q35. 해외 팬이 권리 문제로 뭉친 다른 사례도 있나요?]] | 11쪽 |
-| [[#Q36. 2024년 한국 탄핵 집회는요?\|Q36. 2024년 한국 탄핵 집회는요?]] | 11쪽 |
-| [[#Q37. 왜 다른 팬덤이 아니라 BTS인가요?\|Q37. 왜 다른 팬덤이 아니라 BTS인가요?]] | 2쪽 |
-| [[#Q38. 아미는 너무 특별해서 일반화할 수 없지 않나요?\|Q38. 아미는 너무 특별해서 일반화할 수 없지 않나요?]] | 12쪽 |
-| [[#Q39. 이 캠페인에 대한 기존 연구와 뭐가 다른가요?\|Q39. 이 캠페인에 대한 기존 연구와 뭐가 다른가요?]] | A9 선행연구 26쪽 |
-| [[#Q40. 이건 아미가 최고의 팬덤이라는 증거 아닌가요? (칭찬)\|Q40. 이건 아미가 최고의 팬덤이라는 증거 아닌가요? (칭찬)]] | 없음 |
-| [[#Q41. 본인도 아미인가요? 편향되지 않았나요?\|Q41. 본인도 아미인가요? 편향되지 않았나요?]] | 없음 |
-| [[#Q42. 아미는 사이버 괴롭힘, 팬 전쟁으로도 알려져 있지 않나요?\|Q42. 아미는 사이버 괴롭힘, 팬 전쟁으로도 알려져 있지 않나요?]] | 없음 |
-| [[#Q43. 케이팝의 흑인 음악 차용 문제는요?\|Q43. 케이팝의 흑인 음악 차용 문제는요?]] | 8쪽 |
-| [[#Q44. 하이브나 빅히트가 조직한 것 아닌가요?\|Q44. 하이브나 빅히트가 조직한 것 아닌가요?]] | 2쪽 |
-| [[#Q45. 발표와 상관없는 질문 (컴백, 멤버, 군대 등)\|Q45. 발표와 상관없는 질문 (컴백, 멤버, 군대 등)]] | 없음 |
-| [[#Q46. 이건 "패권 없는 문화 권력"인가요? 김구의 문화국가론과는?\|Q46. 이건 "패권 없는 문화 권력"인가요? 김구의 문화국가론과는?]] | 13쪽 |
-| [[#Q47. 한류 사례로서 "K"가 중요한가요?\|Q47. 한류 사례로서 "K"가 중요한가요?]] | 13쪽 |
-| [[#Q48. 팝 코스모폴리타니즘인가요? (Cicchelli, Octobre 교수)\|Q48. 팝 코스모폴리타니즘인가요? (Cicchelli, Octobre 교수)]] | 13쪽 |
-| [[#Q49. 플랫폼과 기업의 역할을 빠뜨린 것 아닌가요? (Trzcińska 교수)\|Q49. 플랫폼과 기업의 역할을 빠뜨린 것 아닌가요? (Trzcińska 교수)]] | 10쪽 |
-| [[#Q50. 팬덤에 특정 정치 성향을 덧씌우는 것 아닌가요?\|Q50. 팬덤에 특정 정치 성향을 덧씌우는 것 아닌가요?]] | 11쪽 |
-| [[#Q51. 이게 "초국적"이라고 말할 수 있나요?\|Q51. 이게 "초국적"이라고 말할 수 있나요?]] | 13쪽 |
-| [[#Q52. 이 연구의 함의는 무엇인가요?\|Q52. 이 연구의 함의는 무엇인가요?]] | 14쪽, 13쪽 |
+- [Q4. 결론을 한 문장으로 하면?](#q4-결론을-한-문장으로-하면)
+- [Q4-1. 평화운동이 아니라면, 이 발표의 의미는 무엇인가요?](#q4-1-평화운동이-아니라면-이-발표의-의미는-무엇인가요)
+- [Q5. 논문과 무엇이 달라졌나요?](#q5-논문과-무엇이-달라졌나요)
+- [Q6. 왜 해석을 바꿨나요? 논문이 틀린 건가요?](#q6-왜-해석을-바꿨나요-논문이-틀린-건가요)
+- [Q7. 시간이 지나며 더 정치적이 된 건가요, 아닌가요?](#q7-시간이-지나며-더-정치적이-된-건가요-아닌가요)
+- [Q8. 그냥 보여주기, 이미지 관리 아닌가요?](#q8-그냥-보여주기-이미지-관리-아닌가요)
 
----
+**3. 이론**
+
+- [Q9. 기부를 "평화운동"이라 부르는 건 과하지 않나요?](#q9-기부를-평화운동이라-부르는-건-과하지-않나요)
+- [Q10. 얼마나 지속돼야 "운동"인가요?](#q10-얼마나-지속돼야-운동인가요)
+- [Q11. "내부 결속"은 이론적으로 어디서 나온 건가요?](#q11-내부-결속은-이론적으로-어디서-나온-건가요)
+- [Q12. 연결 행동 이론을 검증한 건가요? 코드에도 있나요?](#q12-연결-행동-이론을-검증한-건가요-코드에도-있나요)
+- [Q13. 세 이론을 어떻게 엮었나요?](#q13-세-이론을-어떻게-엮었나요)
+
+**4. 자료와 코딩**
+
+- [Q14. 트윗은 어떻게 모았고, 대표성이 있나요?](#q14-트윗은-어떻게-모았고-대표성이-있나요)
+- [Q15. 왜 영어만 봤나요?](#q15-왜-영어만-봤나요)
+- [Q16. 코딩은 어떻게 했나요? 키워드만 썼나요?](#q16-코딩은-어떻게-했나요-키워드만-썼나요)
+- [Q17. 두 번째 코더가 없으면 신뢰할 수 있나요?](#q17-두-번째-코더가-없으면-신뢰할-수-있나요)
+- [Q18. 해시태그는 연대가 아니잖아요?](#q18-해시태그는-연대가-아니잖아요)
+- [Q19. 목표 달성은 BLM 기부가 목표였는데 왜 팬덤 쪽인가요?](#q19-목표-달성은-blm-기부가-목표였는데-왜-팬덤-쪽인가요)
+- [Q20. 초록에는 460건인데 왜 459건인가요?](#q20-초록에는-460건인데-왜-459건인가요)
+
+**5. 네트워크 그림**
+
+- [Q21. 네트워크 그림은 정확히 무엇을 보여주나요?](#q21-네트워크-그림은-정확히-무엇을-보여주나요)
+- [Q22. 어떻게, 어떤 도구로 만들었나요?](#q22-어떻게-어떤-도구로-만들었나요)
+- [Q23. BTS 기부와 연대가 같이 가는 건 당연한 것 아닌가요?](#q23-bts-기부와-연대가-같이-가는-건-당연한-것-아닌가요)
+
+**6. 통계**
+
+- [Q24. "우연보다 많다, 적다"는 게 무슨 뜻인가요?](#q24-우연보다-많다-적다는-게-무슨-뜻인가요)
+- [Q25. 트윗은 서로 독립이 아닌데 p값이 의미가 있나요?](#q25-트윗은-서로-독립이-아닌데-p값이-의미가-있나요)
+- [Q26. 승산비 0.63이면 애정이 연대를 막는다는 건가요?](#q26-승산비-063이면-애정이-연대를-막는다는-건가요)
+- [Q27. 왜 모든 코드를 넣은 회귀분석을 안 했나요?](#q27-왜-모든-코드를-넣은-회귀분석을-안-했나요)
+
+**7. 논문에만 있는 내용**
+
+- [Q28. 논문은 팬덤을 공공외교 주체라고 했는데, 지금도 그렇게 보나요?](#q28-논문은-팬덤을-공공외교-주체라고-했는데-지금도-그렇게-보나요)
+- [Q29. 2020년 6월 아미의 다른 행동(털사 유세 등)은요?](#q29-2020년-6월-아미의-다른-행동털사-유세-등은요)
+
+**8. 아미, 원인언아미, 팬덤 기부**
+
+- [Q30. 원인언아미는 그 전후로 무엇을 했나요? 지금도 활동하나요?](#q30-원인언아미는-그-전후로-무엇을-했나요-지금도-활동하나요)
+- [Q31. 2020년 이후에도 팬들이 인종차별 문제에 계속 참여했나요?](#q31-2020년-이후에도-팬들이-인종차별-문제에-계속-참여했나요)
+- [Q32. 케이팝 팬들은 원래 기부를 해왔는데, 뭐가 새롭나요?](#q32-케이팝-팬들은-원래-기부를-해왔는데-뭐가-새롭나요)
+- [Q33. 재난 구호도 평화인가요?](#q33-재난-구호도-평화인가요)
+- [Q34. 하나은행 캠페인은 뭔가요?](#q34-하나은행-캠페인은-뭔가요)
+- [Q35. 해외 팬이 권리 문제로 뭉친 다른 사례도 있나요?](#q35-해외-팬이-권리-문제로-뭉친-다른-사례도-있나요)
+- [Q36. 2024년 한국 탄핵 집회는요?](#q36-2024년-한국-탄핵-집회는요)
+
+**9. 왜 BTS인가, 선행연구**
+
+- [Q37. 왜 다른 팬덤이 아니라 BTS인가요?](#q37-왜-다른-팬덤이-아니라-bts인가요)
+- [Q38. 아미는 너무 특별해서 일반화할 수 없지 않나요?](#q38-아미는-너무-특별해서-일반화할-수-없지-않나요)
+- [Q39. 이 캠페인에 대한 기존 연구와 뭐가 다른가요?](#q39-이-캠페인에-대한-기존-연구와-뭐가-다른가요)
+
+**10. 아미 청중, 케이팝 질문**
+
+- [Q40. 이건 아미가 최고의 팬덤이라는 증거 아닌가요? (칭찬)](#q40-이건-아미가-최고의-팬덤이라는-증거-아닌가요-칭찬)
+- [Q41. 본인도 아미인가요? 편향되지 않았나요?](#q41-본인도-아미인가요-편향되지-않았나요)
+- [Q42. 아미는 사이버 괴롭힘, 팬 전쟁으로도 알려져 있지 않나요?](#q42-아미는-사이버-괴롭힘-팬-전쟁으로도-알려져-있지-않나요)
+- [Q43. 케이팝의 흑인 음악 차용 문제는요?](#q43-케이팝의-흑인-음악-차용-문제는요)
+- [Q44. 하이브나 빅히트가 조직한 것 아닌가요?](#q44-하이브나-빅히트가-조직한-것-아닌가요)
+- [Q45. 발표와 상관없는 질문 (컴백, 멤버, 군대 등)](#q45-발표와-상관없는-질문-컴백-멤버-군대-등)
+
+**11. 포럼, 한류**
+
+- [Q46. 이건 "패권 없는 문화 권력"인가요? 김구의 문화국가론과는?](#q46-이건-패권-없는-문화-권력인가요-김구의-문화국가론과는)
+- [Q47. 한류 사례로서 "K"가 중요한가요?](#q47-한류-사례로서-k가-중요한가요)
+- [Q48. 팝 코스모폴리타니즘인가요? (Cicchelli, Octobre 교수)](#q48-팝-코스모폴리타니즘인가요-cicchelli-octobre-교수)
+- [Q49. 플랫폼과 기업의 역할을 빠뜨린 것 아닌가요? (Trzcińska 교수)](#q49-플랫폼과-기업의-역할을-빠뜨린-것-아닌가요-trzcińska-교수)
+- [Q50. 팬덤에 특정 정치 성향을 덧씌우는 것 아닌가요?](#q50-팬덤에-특정-정치-성향을-덧씌우는-것-아닌가요)
+- [Q51. 이게 "초국적"이라고 말할 수 있나요?](#q51-이게-초국적이라고-말할-수-있나요)
+- [Q52. 이 연구의 함의는 무엇인가요?](#q52-이-연구의-함의는-무엇인가요)
+
+**12. 짧은 문장 모음 (한영)**
+
+
+**쓰지 않을 표현**
+
+
 
 ## 0. 먼저 알아둘 숫자 다섯 개
 
@@ -503,7 +593,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 ## 1. 홍석경 교수님께 먼저 받을 질문
 
 ### Q1. 애정이 연대로 이어지지 않았다는 건가요?
-**띄울 슬라이드:** 7쪽, A2 통계 19쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 7쪽, A2 통계 19쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Are you saying emotional bonds didn't lead to solidarity? Isn't ARMY's solidarity rooted in its affective community?"
 - **KO:** "정서적 유대가 연대로 이어지지 않았다는 건가요? 아미의 연대는 결국 정서적 공동체에서 나온 것 아닌가요?"
 
@@ -530,7 +620,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 - KO: "어느 정도는 맞습니다. BTS 기부를 말하면 대의 이름이 자연히 따라 나오니까요. 그래서 아티스트가 연대를 일으켰다고 읽지 않고, 팬들이 연대를 그렇게 설명했다는 것까지만 말합니다."
 
 ### Q2. 국내 팬과 해외 팬은 다르게 받아들였나요?
-**띄울 슬라이드:** 10쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 10쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Did Korean and overseas fans respond differently?"
 - **KO:** "국내 팬과 해외 팬은 이 캠페인을 다르게 받아들였을까요?"
 
@@ -545,7 +635,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "English tweets don't show nationality; that's my next comparison." (영어 트윗으로는 국적을 모름, 다음에 비교할 부분.)
 
 ### Q3. BTS를 따라 한 거라면 팬의 주체성은 어디 있나요?
-**띄울 슬라이드:** 8쪽, 2쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 8쪽, 2쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "If fans followed BTS's donation, where is their agency?"
 - **KO:** "BTS가 기부했으니 따라 한 것이라면, 팬들의 주체성은 어디에 있나요?"
 
@@ -564,7 +654,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 ## 2. 결론과 바뀐 해석
 
 ### Q4. 결론을 한 문장으로 하면?
-**띄울 슬라이드:** 14쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 14쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "So what is your conclusion, in one sentence?"
 - **KO:** "그래서 결론을 한 문장으로 하면요?"
 
@@ -577,7 +667,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Peace-oriented, yes; a peace movement, not yet shown."
 
 ### Q4-1. 평화운동이 아니라면, 이 발표의 의미는 무엇인가요?
-**띄울 슬라이드:** 14쪽, 12쪽, A8 다음 연구 25쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 14쪽, 12쪽, A8 다음 연구 25쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "If it is not a peace movement, what is the point of your talk?"
 - **KO:** "평화운동이 아니라면, 이 발표가 말하는 건 뭔가요?"
 
@@ -592,7 +682,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Not an empty result: it turns 'is it?' into 'what would it take?'"
 
 ### Q5. 논문과 무엇이 달라졌나요?
-**띄울 슬라이드:** 7쪽, 9쪽, A9 선행연구 26쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 7쪽, 9쪽, A9 선행연구 26쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "How is this different from your paper?"
 - **KO:** "논문과 비교해 무엇이 달라졌나요?"
 
@@ -607,7 +697,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Same finding, two readings stated more carefully."
 
 ### Q6. 왜 해석을 바꿨나요? 논문이 틀린 건가요?
-**띄울 슬라이드:** A2 통계 19쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** A2 통계 19쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Why did you change your interpretation? Was the paper wrong?"
 - **KO:** "왜 해석을 바꿨나요? 논문이 틀렸던 건가요?"
 
@@ -620,7 +710,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Not wrong; I asked a stricter question." ("틀렸다"는 말은 쓰지 않음.)
 
 ### Q7. 시간이 지나며 더 정치적이 된 건가요, 아닌가요?
-**띄울 슬라이드:** 9쪽, A3 시기별 비율 20쪽, A2 통계 19쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 9쪽, A3 시기별 비율 20쪽, A2 통계 19쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "So did the campaign become more political over time or not?"
 - **KO:** "그래서 캠페인이 시간이 지나며 더 정치적이 된 건가요, 아닌가요?"
 
@@ -635,7 +725,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Talk about the cause outlasted the celebration."
 
 ### Q8. 그냥 보여주기, 이미지 관리 아닌가요?
-**띄울 슬라이드:** A1 코드북 18쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** A1 코드북 18쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Isn't this just performative, image management, slacktivism?"
 - **KO:** "그냥 보여주기, 팬덤 이미지 관리, 클릭만 하는 행동주의 아닌가요?"
 
@@ -652,7 +742,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 ## 3. 이론
 
 ### Q9. 기부를 "평화운동"이라 부르는 건 과하지 않나요?
-**띄울 슬라이드:** 3쪽, A7 해석 질문 24쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 3쪽, A7 해석 질문 24쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Why Galtung? Isn't calling a donation a peace movement a stretch?"
 - **KO:** "왜 갈퉁인가요? 기부를 평화운동이라고 부르는 건 과하지 않나요?"
 
@@ -667,7 +757,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Not the donation itself, but the link to a public problem."
 
 ### Q10. 얼마나 지속돼야 "운동"인가요?
-**띄울 슬라이드:** 12쪽, A8 다음 연구 25쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 12쪽, A8 다음 연구 25쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "How long would it have to last to count as a movement?"
 - **KO:** "얼마나 오래 지속돼야 운동이라고 할 수 있나요?"
 
@@ -682,7 +772,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "No fixed length; it's about repeated action on the same problem."
 
 ### Q11. "내부 결속"은 이론적으로 어디서 나온 건가요?
-**띄울 슬라이드:** 3쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 3쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Where does internal cohesion come from theoretically?"
 - **KO:** "내부 결속이라는 개념은 어떤 이론에서 나온 건가요?"
 
@@ -695,7 +785,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "From fan studies: attachment, identity, shared achievement."
 
 ### Q12. 연결 행동 이론을 검증한 건가요? 코드에도 있나요?
-**띄울 슬라이드:** 3쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 3쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Did you test connective action theory? Is it one of your codes?"
 - **KO:** "연결 행동 이론을 검증한 건가요? 코드 중 하나인가요?"
 
@@ -708,7 +798,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "A lens, not a code; closer to organizationally enabled."
 
 ### Q13. 세 이론을 어떻게 엮었나요?
-**띄울 슬라이드:** 3쪽, 5쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 3쪽, 5쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "How do the three theories fit together?"
 - **KO:** "세 이론을 어떻게 연결했나요?"
 
@@ -725,7 +815,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 ## 4. 자료와 코딩
 
 ### Q14. 트윗은 어떻게 모았고, 대표성이 있나요?
-**띄울 슬라이드:** 4쪽, A6 자료 범위 23쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 4쪽, A6 자료 범위 23쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "How did you collect the tweets? Is it representative?"
 - **KO:** "트윗은 어떻게 모았나요? 대표성이 있나요?"
 
@@ -738,7 +828,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Patterns in this sample, not the whole fandom."
 
 ### Q15. 왜 영어만 봤나요?
-**띄울 슬라이드:** 4쪽, 10쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 4쪽, 10쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Why English only? What about Korean fans?"
 - **KO:** "왜 영어 트윗만 봤나요? 한국 팬들은요?"
 
@@ -751,7 +841,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "One language for consistent coding; Korean is the next step."
 
 ### Q16. 코딩은 어떻게 했나요? 키워드만 썼나요?
-**띄울 슬라이드:** 4쪽, A1 코드북 18쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 4쪽, A1 코드북 18쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "How did you code? Did you just use keywords?"
 - **KO:** "코딩은 어떻게 했나요? 키워드로만 한 건가요?"
 
@@ -764,7 +854,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Keywords first, then every tweet by hand." (코드 정의는 부록 A1, 18쪽)
 
 ### Q17. 두 번째 코더가 없으면 신뢰할 수 있나요?
-**띄울 슬라이드:** 10쪽, A2 통계 19쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 10쪽, A2 통계 19쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "No second coder? Then how reliable is this?"
 - **KO:** "두 번째 코더가 없었다면 결과를 얼마나 믿을 수 있나요?"
 
@@ -779,7 +869,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "A real limitation; independent recoding is next."
 
 ### Q18. 해시태그는 연대가 아니잖아요?
-**띄울 슬라이드:** 8쪽, A1 코드북 18쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 8쪽, A1 코드북 18쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "A hashtag isn't solidarity. Aren't you inflating the peace side?"
 - **KO:** "해시태그 하나 다는 게 연대인가요? 평화 쪽을 부풀린 것 아닌가요?"
 
@@ -792,7 +882,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Mostly short, so 'in a modest sense'."
 
 ### Q19. 목표 달성은 BLM 기부가 목표였는데 왜 팬덤 쪽인가요?
-**띄울 슬라이드:** 5쪽, A3 분류 선택 20쪽, A1 코드북 18쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 5쪽, A3 분류 선택 20쪽, A1 코드북 18쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Why is Goal Achievement on the fandom side? The goal was a donation to BLM."
 - **KO:** "목표가 BLM 기부였는데, 목표 달성을 왜 팬덤 쪽으로 분류했나요?"
 
@@ -805,7 +895,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "The talk was about records, not the cause; a borderline call." (부록 A3, 20쪽)
 
 ### Q20. 초록에는 460건인데 왜 459건인가요?
-**띄울 슬라이드:** 4쪽, A2 통계 19쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 4쪽, A2 통계 19쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Your abstract says 460 tweets. Why 459?"
 - **KO:** "프로그램북 초록에는 460건이라고 되어 있는데, 왜 459건인가요?"
 
@@ -822,7 +912,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 ## 5. 네트워크 그림
 
 ### Q21. 네트워크 그림은 정확히 무엇을 보여주나요?
-**띄울 슬라이드:** 7쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 7쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "What exactly does the network show?"
 - **KO:** "네트워크 그림이 정확히 무엇을 보여주나요?"
 
@@ -835,7 +925,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Lines mean 'together', not 'leading to'."
 
 ### Q22. 어떻게, 어떤 도구로 만들었나요?
-**띄울 슬라이드:** 7쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 7쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "How did you build the network? What tools and settings?"
 - **KO:** "네트워크는 어떻게, 어떤 도구와 설정으로 만들었나요?"
 
@@ -848,7 +938,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Excel to count, Gephi to draw; position means nothing."
 
 ### Q23. BTS 기부와 연대가 같이 가는 건 당연한 것 아닌가요?
-**띄울 슬라이드:** 7쪽, A2 통계 19쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 7쪽, A2 통계 19쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Isn't the artist–solidarity link built in? BTS's act was itself a donation to Black Lives Matter."
 - **KO:** "BTS의 행동 자체가 BLM 기부였으니, 아티스트 언급과 연대가 같이 나오는 건 당연한 것 아닌가요?"
 
@@ -865,7 +955,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 ## 6. 통계
 
 ### Q24. "우연보다 많다, 적다"는 게 무슨 뜻인가요?
-**띄울 슬라이드:** 7쪽, A2 통계 19쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 7쪽, A2 통계 19쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "What do you mean by more or less than chance?"
 - **KO:** "우연보다 많다, 적다는 게 무슨 뜻인가요?"
 
@@ -880,7 +970,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Thick line ≠ strong link; compare with what chance would give." (비유: 매일 출근하는 두 사람은 안 친해도 엘리베이터에서 자주 마주침.)
 
 ### Q25. 트윗은 서로 독립이 아닌데 p값이 의미가 있나요?
-**띄울 슬라이드:** A2 통계 19쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** A2 통계 19쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Tweets aren't independent. Do your p-values mean anything?"
 - **KO:** "같은 사람이 여러 번 썼을 수 있으니 트윗은 독립이 아닌데, p값이 의미가 있나요?"
 
@@ -893,7 +983,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Read by size and direction; account clustering next time." (통계표는 부록 A2, 19쪽)
 
 ### Q26. 승산비 0.63이면 애정이 연대를 막는다는 건가요?
-**띄울 슬라이드:** A2 통계 19쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** A2 통계 19쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "An odds ratio of 0.63: does affection work against solidarity?"
 - **KO:** "승산비가 0.63이면 애정이 연대를 방해한다는 뜻인가요?"
 
@@ -906,7 +996,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Not blocking; just not bringing solidarity along."
 
 ### Q27. 왜 모든 코드를 넣은 회귀분석을 안 했나요?
-**띄울 슬라이드:** A2 통계 19쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** A2 통계 19쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Why not a regression with all codes together?"
 - **KO:** "모든 코드를 한꺼번에 넣은 회귀분석은 왜 안 했나요?"
 
@@ -923,7 +1013,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 ## 7. 논문에만 있는 내용
 
 ### Q28. 논문은 팬덤을 공공외교 주체라고 했는데, 지금도 그렇게 보나요?
-**띄울 슬라이드:** 13쪽, A5 근거 범위 22쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 13쪽, A5 근거 범위 22쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Your paper calls fandom a public diplomacy actor. Do you still hold that?"
 - **KO:** "논문에서는 팬덤을 공공외교의 주체라고 했는데, 지금도 그렇게 생각하나요?"
 
@@ -936,7 +1026,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Bigger than this data can carry."
 
 ### Q29. 2020년 6월 아미의 다른 행동(털사 유세 등)은요?
-**띄울 슬라이드:** 2쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 2쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "What about the other things ARMY did in June 2020, like Tulsa?"
 - **KO:** "2020년 6월에 아미가 한 다른 일들, 예를 들어 털사 유세는요?"
 
@@ -953,7 +1043,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 ## 8. 아미, 원인언아미, 팬덤 기부
 
 ### Q30. 원인언아미는 그 전후로 무엇을 했나요? 지금도 활동하나요?
-**띄울 슬라이드:** 2쪽, 16쪽 Sources  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 2쪽, 16쪽 Sources  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "What has One In An ARMY done before and since? Is it still active?"
 - **KO:** "원인언아미는 그 이전과 이후에 무엇을 했나요? 지금도 활동하나요?"
 
@@ -968,7 +1058,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Still active since 2018; campaigns are framed around members."
 
 ### Q31. 2020년 이후에도 팬들이 인종차별 문제에 계속 참여했나요?
-**띄울 슬라이드:** 12쪽, A8 다음 연구 25쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 12쪽, A8 다음 연구 25쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Did fans keep engaging with racism after 2020?"
 - **KO:** "2020년 이후에도 팬들이 인종차별 문제에 계속 참여했나요?"
 
@@ -981,7 +1071,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "The organization persists; one problem over time is what I'll follow next."
 
 ### Q32. 케이팝 팬들은 원래 기부를 해왔는데, 뭐가 새롭나요?
-**띄울 슬라이드:** 2쪽, 11쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 2쪽, 11쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "K-pop fans have always donated. What's new here?"
 - **KO:** "케이팝 팬들은 원래 기부를 많이 해왔는데, 이번엔 뭐가 새로운가요?"
 
@@ -994,7 +1084,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "New target and scale: a structural problem the artist had taken a stand on." (쌀 화환은 "최초"가 아니라 "초기 사례"로 말할 것)
 
 ### Q33. 재난 구호도 평화인가요?
-**띄울 슬라이드:** 11쪽, A7 해석 질문 24쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 11쪽, A7 해석 질문 24쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Is disaster relief also peace?"
 - **KO:** "재난 구호도 평화라고 볼 수 있나요?"
 
@@ -1007,7 +1097,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "I don't rank causes; Match A Million named discrimination."
 
 ### Q34. 하나은행 캠페인은 뭔가요?
-**띄울 슬라이드:** 11쪽, A4 후속 사례 비교 21쪽, 16쪽 Sources  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 11쪽, A4 후속 사례 비교 21쪽, 16쪽 Sources  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "What was the Hana Bank campaign about?"
 - **KO:** "11번 슬라이드의 하나은행 캠페인은 무엇인가요?"
 
@@ -1024,7 +1114,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 - KO: "하나은행이 입장을 냈지만 팬들은 모호하다고 봤고, 2026년 4월에도 캠페인이 계속되고 있었습니다. 그래서 정책 변화의 증거가 아니라 팬들이 요구를 어떻게 구성했는지 보여주는 예로 봅니다."
 
 ### Q35. 해외 팬이 권리 문제로 뭉친 다른 사례도 있나요?
-**띄울 슬라이드:** 11쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 11쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Have overseas fans organized around rights issues beyond Match A Million?"
 - **KO:** "매치어밀리언 말고도 해외 팬들이 권리 문제로 뭉친 사례가 있나요?"
 
@@ -1037,7 +1127,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Many, mostly at home; Match A Million combined an artist's stand, a structural problem, and speed."
 
 ### Q36. 2024년 한국 탄핵 집회는요?
-**띄울 슬라이드:** 11쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 11쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "What about Korea's 2024 impeachment protests?"
 - **KO:** "2024년 한국 탄핵 집회에서 팬들의 역할은요?"
 
@@ -1054,7 +1144,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 ## 9. 왜 BTS인가, 선행연구
 
 ### Q37. 왜 다른 팬덤이 아니라 BTS인가요?
-**띄울 슬라이드:** 2쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 2쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Why BTS and not another fandom?"
 - **KO:** "왜 다른 팬덤이 아니라 BTS 아미인가요?"
 
@@ -1067,7 +1157,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Clearest case; I use it to find conditions, not to generalize."
 
 ### Q38. 아미는 너무 특별해서 일반화할 수 없지 않나요?
-**띄울 슬라이드:** 12쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 12쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Isn't ARMY too special to say anything about fandom in general?"
 - **KO:** "아미는 너무 특별해서 팬덤 일반에 대해 말할 수 없지 않나요?"
 
@@ -1080,7 +1170,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Its special features are the conditions to test."
 
 ### Q39. 이 캠페인에 대한 기존 연구와 뭐가 다른가요?
-**띄울 슬라이드:** A9 선행연구 26쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** A9 선행연구 26쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "How does your work differ from earlier studies of Match A Million?"
 - **KO:** "매치어밀리언에 대한 기존 연구와 무엇이 다른가요?"
 
@@ -1097,7 +1187,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 ## 10. 아미 청중, 케이팝 질문
 
 ### Q40. 이건 아미가 최고의 팬덤이라는 증거 아닌가요? (칭찬)
-**띄울 슬라이드:** 없음  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 없음  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "This shows ARMY is the best fandom, right?"
 - **KO:** "이건 아미가 최고의 팬덤이라는 걸 보여주는 거죠?"
 
@@ -1110,7 +1200,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Remarkable, but I'm not ranking fandoms."
 
 ### Q41. 본인도 아미인가요? 편향되지 않았나요?
-**띄울 슬라이드:** 없음  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 없음  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Are you an ARMY yourself? Does that bias you?"
 - **KO:** "본인도 아미인가요? 그래서 편향되지는 않았나요?"
 
@@ -1126,7 +1216,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "That's why I revised my own readings."
 
 ### Q42. 아미는 사이버 괴롭힘, 팬 전쟁으로도 알려져 있지 않나요?
-**띄울 슬라이드:** 없음  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 없음  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "ARMY is also known for online harassment and fan wars. Isn't that the other side?"
 - **KO:** "아미는 온라인 괴롭힘이나 팬 전쟁으로도 알려져 있는데, 그게 다른 면 아닌가요?"
 
@@ -1139,7 +1229,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Same cohesion, different directions; I ask when."
 
 ### Q43. 케이팝의 흑인 음악 차용 문제는요?
-**띄울 슬라이드:** 8쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 8쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "What about K-pop's debt to Black music?"
 - **KO:** "케이팝이 흑인 음악에 빚지고 있다는 문제는 어떻게 보나요?"
 
@@ -1152,7 +1242,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Real history; this campaign doesn't settle it."
 
 ### Q44. 하이브나 빅히트가 조직한 것 아닌가요?
-**띄울 슬라이드:** 2쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 2쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Did HYBE or Big Hit organize this?"
 - **KO:** "하이브나 빅히트가 이 캠페인을 조직한 건 아닌가요?"
 
@@ -1165,7 +1255,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Company donated; fans built the matching campaign."
 
 ### Q45. 발표와 상관없는 질문 (컴백, 멤버, 군대 등)
-**띄울 슬라이드:** 없음  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 없음  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **영어 답:** "That's a bit beyond my study, so I'll leave it to others who follow it more closely. What I can say is about this campaign: …"
 - **한국어 답:** "그건 제 연구 범위를 조금 벗어나서, 더 가까이 지켜보는 분들께 맡기겠습니다. 이 캠페인에 대해서 말씀드릴 수 있는 건…"
 
@@ -1176,7 +1266,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 ## 11. 포럼, 한류
 
 ### Q46. 이건 "패권 없는 문화 권력"인가요? 김구의 문화국가론과는?
-**띄울 슬라이드:** 13쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 13쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Is this cultural power without hegemony? How does it connect to Kim Koo's idea of a cultural nation?"
 - **KO:** "이게 패권 없는 문화 권력인가요? 김구의 문화국가론과는 어떻게 연결되나요?"
 
@@ -1189,7 +1279,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Kim Koo as a question; fans, not the state, made public value."
 
 ### Q47. 한류 사례로서 "K"가 중요한가요?
-**띄울 슬라이드:** 13쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 13쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Why is this a Hallyu case? Does the K matter?"
 - **KO:** "이게 왜 한류 사례인가요? 한국이라는 점이 중요한가요?"
 
@@ -1202,7 +1292,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "The link runs through attachment, not the nation."
 
 ### Q48. 팝 코스모폴리타니즘인가요? (Cicchelli, Octobre 교수)
-**띄울 슬라이드:** 13쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 13쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Is this pop cosmopolitanism?"
 - **KO:** "이건 팝 코스모폴리타니즘으로 볼 수 있나요?"
 
@@ -1226,7 +1316,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 - **주의:** Cicchelli, Octobre 책과 논문을 직접 읽지 않았다면 내용을 길게 인용하지 말고 "your work on young people's cosmopolitan engagement with K-pop" 정도로만 언급.
 
 ### Q49. 플랫폼과 기업의 역할을 빠뜨린 것 아닌가요? (Trzcińska 교수)
-**띄울 슬라이드:** 10쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 10쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Aren't you leaving out platforms and the industry?"
 - **KO:** "플랫폼과 기업의 역할을 분석에서 빠뜨린 것 아닌가요?"
 
@@ -1239,7 +1329,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 **핵심 한 줄:** "Same bond, two uses; who gained needs another design."
 
 ### Q50. 팬덤에 특정 정치 성향을 덧씌우는 것 아닌가요?
-**띄울 슬라이드:** 11쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 11쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Doesn't this assign one politics to K-pop fans?"
 - **KO:** "케이팝 팬들이 진보적이라는 식으로 정치 성향을 덧씌우는 것 아닌가요?"
 
@@ -1253,7 +1343,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 
 
 ### Q51. 이게 "초국적"이라고 말할 수 있나요?
-**띄울 슬라이드:** 13쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 13쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "Can you really call this transnational? Many of these fans may be Americans acting on their own country's problem."
 - **KO:** "이걸 정말 초국적이라고 할 수 있나요? 이 팬들 상당수가 자기 나라 문제에 나선 미국인일 수도 있잖아요."
 
@@ -1271,7 +1361,7 @@ The campaign raised real money, so it had a result beyond clicks. But a donation
 
 
 ### Q52. 이 연구의 함의는 무엇인가요?
-**띄울 슬라이드:** 14쪽, 13쪽  |  [[#목차|↑ 목차]]
+**띄울 슬라이드:** 14쪽, 13쪽  |  [↑ 목차](#기존-예상-질문-53개-전체-색인)
 - **EN:** "What are the implications of your study?" / "So what? Why does this matter?"
 - **KO:** "이 연구의 함의는 무엇인가요? 왜 중요한가요?"
 
