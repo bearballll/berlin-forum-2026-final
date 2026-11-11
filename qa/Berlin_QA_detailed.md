@@ -1,5 +1,33 @@
 # 베를린 발표 Q&A 준비 v9 (2026-11-11)
 
+## 현장 코멘트에 대한 종합 답변
+
+**영어**
+
+Thank you. These comments help me clarify what my study can show.
+
+My main finding is that fandom pride and anti-racist solidarity appeared together in this campaign. This shows how fans connected their attachment to BTS with a public cause. But it does not prove their personal motives, or that this connection is unique to K-pop.
+
+I counted solidarity only when a tweet clearly supported the cause, not from a hashtag alone. Even so, expressing support and making a donation are different from staying involved in a movement.
+
+I also agree that the specific context matters. Black fans had already raised racism within the fandom. I need to examine what they asked for, how other fans responded, and whether those concerns remained central when fans celebrated the campaign’s success.
+
+So I would describe this as a case of fandom and anti-racist engagement coming together. To understand whether it became a lasting movement, I need interviews and research beyond the campaign itself.
+
+**한국어**
+
+감사합니다. 말씀해 주신 의견들은 이 연구가 무엇을 보여줄 수 있는지 더 명확하게 하는 데 도움이 됩니다.
+
+제 핵심 발견은 이 캠페인에서 팬덤의 자부심과 반인종차별 연대가 함께 나타났다는 것입니다. 팬들이 BTS에 대한 애착을 공적 대의와 어떻게 연결했는지 보여줍니다. 다만 개인의 실제 동기나, 이 연결이 케이팝만의 특징이라는 점을 입증하지는 못합니다.
+
+연대는 해시태그만으로 판단하지 않고, 대의를 분명히 지지한 경우에만 코딩했습니다. 그렇더라도 지지를 표현하거나 기부하는 것과 운동에 지속적으로 참여하는 것은 구분해야 합니다.
+
+구체적인 맥락이 중요하다는 지적에도 동의합니다. 흑인 팬들은 이미 팬덤 내부에서 인종차별 문제를 제기하고 있었습니다. 그들이 무엇을 요구했고 다른 팬들은 어떻게 반응했는지, 캠페인의 성공을 축하하는 과정에서도 그 문제 제기가 중심에 남아 있었는지를 살펴봐야 합니다.
+
+따라서 저는 이 사례를 팬덤과 반인종차별 참여가 만난 사례로 설명하고 싶습니다. 그것이 지속적인 운동으로 이어졌는지 이해하려면 인터뷰와 캠페인 이후의 연구가 필요합니다.
+
+---
+
 ## 현장 코멘트에 대한 구체적인 한영 답변 6개
 
 줄리아의 네 질문과 다른 교수님 코멘트의 두 핵심 논점에 대한 답변입니다. 질문은 현장 메모와 화면 요약을 바탕으로 재구성했으며, 정확한 발언 전사는 아닙니다. 실제로 확인한 결과와 앞으로 필요한 분석을 구분했습니다. 각 질문에 영어 또는 한국어 중 한 언어로 답합니다. 더 짧게 답하려면 아래의 ‘줄리아의 현장 질문과 짧은 한영 답변’을 사용합니다.
